@@ -1,0 +1,248 @@
+[table][
+][tr][
+ ][th=9x1]Albino Kalos[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/u/m/f.png[/img][*Chespin (A)*][/td][
+ ][td][img]/img/pkmn/t/m/7/r.png[/img][*Quilladin (A)*][/td][
+ ][td][img]/img/pkmn/w/t/3/g.png[/img][*Chesnaught (A)*][/td][
+ ][td][img]/img/pkmn/k/n/z/t.png[/img][*Fennekin (A)*][/td][
+ ][td][img]/img/pkmn/h/9/5/t.png[/img][*Braixen (A)*][/td][
+ ][td][img]/img/pkmn/t/x/g/i.png[/img][*Delphox (A)*][/td][
+ ][td][img]/img/pkmn/5/1/8/k.png[/img][*Delphox (A)/Lefty*][/td][
+ ][td][img]/img/pkmn/7/2/h/h.png[/img][*Froakie (A)*][/td][
+ ][td][img]/img/pkmn/j/s/c/3.png[/img][*Frogadier (A)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/1/6/f/r.png[/img][*Greninja (A)*][/td][
+ ][td][img]/img/pkmn/q/4/7/z.png[/img][*Bunnelby (A)*][/td][
+ ][td][img]/img/pkmn/c/r/4/e.png[/img][*Diggersby (A)*][/td][
+ ][td][img]/img/pkmn/d/i/4/e.png[/img][*Fletchling (A)*][/td][
+ ][td][img]/img/pkmn/6/9/l/j.png[/img][*Fletchinder (A)*][/td][
+ ][td][img]/img/pkmn/p/n/9/3.png[/img][*Talonflame (A)*][/td][
+ ][td][img]/img/pkmn/u/n/u/p.png[/img][*Scatterbug (A)*][/td][
+ ][td][img]/img/pkmn/x/i/4/9.png[/img][*Spewpa (A)*][/td][
+ ][td][img]/img/pkmn/d/m/b/a.png[/img][*Vivillon (A)/Meadow*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/y/6/2/q.png[/img][*Vivillon (A)/Polar*][/td][
+ ][td][img]/img/pkmn/h/j/h/v.png[/img][*Vivillon (A)/Tundra*][/td][
+ ][td][img]/img/pkmn/e/f/9/7.png[/img][*Vivillon (A)/Continental*][/td][
+ ][td][img]/img/pkmn/x/u/8/m.png[/img][*Vivillon (A)/Garden*][/td][
+ ][td][img]/img/pkmn/i/k/k/u.png[/img][*Vivillon (A)/Elegant*][/td][
+ ][td][img]/img/pkmn/8/i/2/0.png[/img][*Vivillon (A)/Icy Snow*][/td][
+ ][td][img]/img/pkmn/9/i/v/p.png[/img][*Vivillon (A)/Modern*][/td][
+ ][td][img]/img/pkmn/v/7/8/f.png[/img][*Vivillon (A)/Marine*][/td][
+ ][td][img]/img/pkmn/x/p/l/e.png[/img][*Vivillon (A)/Archipelago*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/s/e/b/x.png[/img][*Vivillon (A)/High Plains*][/td][
+ ][td][img]/img/pkmn/y/8/s/e.png[/img][*Vivillon (A)/Sandstorm*][/td][
+ ][td][img]/img/pkmn/h/w/h/o.png[/img][*Vivillon (A)/River*][/td][
+ ][td][img]/img/pkmn/6/d/v/p.png[/img][*Vivillon (A)/Monsoon*][/td][
+ ][td][img]/img/pkmn/1/9/p/n.png[/img][*Vivillon (A)/Savanna*][/td][
+ ][td][img]/img/pkmn/5/h/n/x.png[/img][*Vivillon (A)/Sun*][/td][
+ ][td][img]/img/pkmn/o/f/u/v.png[/img][*Vivillon (A)/Ocean*][/td][
+ ][td][img]/img/pkmn/8/f/q/x.png[/img][*Vivillon (A)/Jungle*][/td][
+ ][td][img]/img/pkmn/j/r/b/4.png[/img][*Vivillon (A)/Fancy*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/8/d/s/t.png[/img][*Vivillon (A)/Poke Ball*][/td][
+ ][td][img]/img/pkmn/1/8/2/3.png[/img][*Litleo (A)*][/td][
+ ][td][img]/img/pkmn/9/3/s/z.png[/img][*Pyroar (A)*][/td][
+ ][td][img]/img/pkmn/8/3/s/7.png[/img][*Flabebe (A)/White Flower*][/td][
+ ][td][img]/img/pkmn/c/d/t.png[/img][*Flabebe (A)/Grey Flower*][/td][
+ ][td][img]/img/pkmn/l/z/5/e.png[/img][*Flabebe (A)/Black Flower*][/td][
+ ][td][img]/img/pkmn/n/c/d/8.png[/img][*Flabebe (A)/Dark Red Flower*][/td][
+ ][td][img]/img/pkmn/p/a/i/6.png[/img][*Flabebe (A)/Red Flower*][/td][
+ ][td][img]/img/pkmn/5/p/c/c.png[/img][*Flabebe (A)/Light Red Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/m/c/n/j.png[/img][*Flabebe (A)/Dark Orange Flower*][/td][
+ ][td][img]/img/pkmn/i/w/g/u.png[/img][*Flabebe (A)/Orange Flower*][/td][
+ ][td][img]/img/pkmn/i/3/5/v.png[/img][*Flabebe (A)/Light Orange Flower*][/td][
+ ][td][img]/img/pkmn/5/m/7/h.png[/img][*Flabebe (A)/Dark Yellow Flower*][/td][
+ ][td][img]/img/pkmn/w/e/8.png[/img][*Flabebe (A)/Yellow Flower*][/td][
+ ][td][img]/img/pkmn/a/u/t/v.png[/img][*Flabebe (A)/Light Yellow Flower*][/td][
+ ][td][img]/img/pkmn/f/g/1/p.png[/img][*Flabebe (A)/Dark Green Flower*][/td][
+ ][td][img]/img/pkmn/h/0/e/b.png[/img][*Flabebe (A)/Green Flower*][/td][
+ ][td][img]/img/pkmn/n/s/1/1.png[/img][*Flabebe (A)/Light Green Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/2/6/7/0.png[/img][*Flabebe (A)/Dark Blue Flower*][/td][
+ ][td][img]/img/pkmn/f/m/w/g.png[/img][*Flabebe (A)/Blue Flower*][/td][
+ ][td][img]/img/pkmn/2/q/2/q.png[/img][*Flabebe (A)/Light Blue Flower*][/td][
+ ][td][img]/img/pkmn/7/t/x/w.png[/img][*Flabebe (A)/Dark Aqua Flower*][/td][
+ ][td][img]/img/pkmn/d/x/6/w.png[/img][*Flabebe (A)/Aqua Flower*][/td][
+ ][td][img]/img/pkmn/m/p/d/m.png[/img][*Flabebe (A)/Light Aqua Flower*][/td][
+ ][td][img]/img/pkmn/3/a/c/v.png[/img][*Flabebe (A)/Dark Purple Flower*][/td][
+ ][td][img]/img/pkmn/p/j/y/c.png[/img][*Flabebe (A)/Purple Flower*][/td][
+ ][td][img]/img/pkmn/i/a/0/7.png[/img][*Flabebe (A)/Light Purple Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/6/p/u/q.png[/img][*Flabebe (A)/Dark Pink Flower*][/td][
+ ][td][img]/img/pkmn/h/v/f/z.png[/img][*Flabebe (A)/Pink Flower*][/td][
+ ][td][img]/img/pkmn/4/m/y/y.png[/img][*Flabebe (A)/Light Pink Flower*][/td][
+ ][td][img]/img/pkmn/b/7/d/g.png[/img][*Floette (A)/White Flower*][/td][
+ ][td][img]/img/pkmn/r/4/9/b.png[/img][*Floette (A)/Grey Flower*][/td][
+ ][td][img]/img/pkmn/l/n/0/g.png[/img][*Floette (A)/Black Flower*][/td][
+ ][td][img]/img/pkmn/z/m/j/a.png[/img][*Floette (A)/Dark Red Flower*][/td][
+ ][td][img]/img/pkmn/q/l/h/d.png[/img][*Floette (A)/Red Flower*][/td][
+ ][td][img]/img/pkmn/6/j/p/r.png[/img][*Floette (A)/Light Red Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/l/v/n/d.png[/img][*Floette (A)/Dark Orange Flower*][/td][
+ ][td][img]/img/pkmn/h/3/m/4.png[/img][*Floette (A)/Orange Flower*][/td][
+ ][td][img]/img/pkmn/4/t/p/i.png[/img][*Floette (A)/Light Orange Flower*][/td][
+ ][td][img]/img/pkmn/6/z/r/t.png[/img][*Floette (A)/Dark Yellow Flower*][/td][
+ ][td][img]/img/pkmn/j/x/b/9.png[/img][*Floette (A)/Yellow Flower*][/td][
+ ][td][img]/img/pkmn/m/t/v/f.png[/img][*Floette (A)/Light Yellow Flower*][/td][
+ ][td][img]/img/pkmn/a/5/i/5.png[/img][*Floette (A)/Dark Green Flower*][/td][
+ ][td][img]/img/pkmn/n/3/4/n.png[/img][*Floette (A)/Green Flower*][/td][
+ ][td][img]/img/pkmn/v/q/u.png[/img][*Floette (A)/Light Green Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/d/0/6/s.png[/img][*Floette (A)/Dark Blue Flower*][/td][
+ ][td][img]/img/pkmn/1/h/1/m.png[/img][*Floette (A)/Blue Flower*][/td][
+ ][td][img]/img/pkmn/e/f/c/p.png[/img][*Floette (A)/Light Blue Flower*][/td][
+ ][td][img]/img/pkmn/v/3/5/z.png[/img][*Floette (A)/Dark Aqua Flower*][/td][
+ ][td][img]/img/pkmn/4/d/q/u.png[/img][*Floette (A)/Aqua Flower*][/td][
+ ][td][img]/img/pkmn/q/s/q/y.png[/img][*Floette (A)/Light Aqua Flower*][/td][
+ ][td][img]/img/pkmn/u/y/1/g.png[/img][*Floette (A)/Dark Purple Flower*][/td][
+ ][td][img]/img/pkmn/c/a/y/l.png[/img][*Floette (A)/Purple Flower*][/td][
+ ][td][img]/img/pkmn/h/q/3/9.png[/img][*Floette (A)/Light Purple Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/o/i/0/8.png[/img][*Floette (A)/Dark Pink Flower*][/td][
+ ][td][img]/img/pkmn/8/6/q/v.png[/img][*Floette (A)/Pink Flower*][/td][
+ ][td][img]/img/pkmn/e/6/q/e.png[/img][*Floette (A)/Light Pink Flower*][/td][
+ ][td][img]/img/pkmn/s/q/b/p.png[/img][*Florges (A)/White Flower*][/td][
+ ][td][img]/img/pkmn/s/1/f/r.png[/img][*Florges (A)/Grey Flower*][/td][
+ ][td][img]/img/pkmn/5/2/1/k.png[/img][*Florges (A)/Black Flower*][/td][
+ ][td][img]/img/pkmn/m/2/j/z.png[/img][*Florges (A)/Dark Red Flower*][/td][
+ ][td][img]/img/pkmn/r/h/6/0.png[/img][*Florges (A)/Red Flower*][/td][
+ ][td][img]/img/pkmn/g/l/m/u.png[/img][*Florges (A)/Light Red Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/n/n/x/n.png[/img][*Florges (A)/Dark Orange Flower*][/td][
+ ][td][img]/img/pkmn/5/x/f/t.png[/img][*Florges (A)/Orange Flower*][/td][
+ ][td][img]/img/pkmn/d/z/u/3.png[/img][*Florges (A)/Light Orange Flower*][/td][
+ ][td][img]/img/pkmn/2/k/i/5.png[/img][*Florges (A)/Dark Yellow Flower*][/td][
+ ][td][img]/img/pkmn/z/l/k/g.png[/img][*Florges (A)/Yellow Flower*][/td][
+ ][td][img]/img/pkmn/5/q/6/f.png[/img][*Florges (A)/Light Yellow Flower*][/td][
+ ][td][img]/img/pkmn/m/d/p/6.png[/img][*Florges (A)/Dark Green Flower*][/td][
+ ][td][img]/img/pkmn/l/j/q/7.png[/img][*Florges (A)/Green Flower*][/td][
+ ][td][img]/img/pkmn/c/x/9/g.png[/img][*Florges (A)/Light Green Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/3/y/q/4.png[/img][*Florges (A)/Dark Blue Flower*][/td][
+ ][td][img]/img/pkmn/s/p/g/1.png[/img][*Florges (A)/Blue Flower*][/td][
+ ][td][img]/img/pkmn/i/9/d/s.png[/img][*Florges (A)/Light Blue Flower*][/td][
+ ][td][img]/img/pkmn/m/y/c/g.png[/img][*Florges (A)/Dark Aqua Flower*][/td][
+ ][td][img]/img/pkmn/n/w/l/w.png[/img][*Florges (A)/Aqua Flower*][/td][
+ ][td][img]/img/pkmn/g/t/1.png[/img][*Florges (A)/Light Aqua Flower*][/td][
+ ][td][img]/img/pkmn/4/8/k/h.png[/img][*Florges (A)/Dark Purple Flower*][/td][
+ ][td][img]/img/pkmn/m/8/1/3.png[/img][*Florges (A)/Purple Flower*][/td][
+ ][td][img]/img/pkmn/g/5/7/i.png[/img][*Florges (A)/Light Purple Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/y/j/a/7.png[/img][*Florges (A)/Dark Pink Flower*][/td][
+ ][td][img]/img/pkmn/4/l/c/k.png[/img][*Florges (A)/Pink Flower*][/td][
+ ][td][img]/img/pkmn/7/v/o/c.png[/img][*Florges (A)/Light Pink Flower*][/td][
+ ][td][img]/img/pkmn/h/q/8/b.png[/img][*Skiddo (A)*][/td][
+ ][td][img]/img/pkmn/d/x/e/7.png[/img][*Gogoat (A)*][/td][
+ ][td][img]/img/pkmn/u/n/4/7.png[/img][*Pancham (A)*][/td][
+ ][td][img]/img/pkmn/t/0/8/u.png[/img][*Pangoro (A)*][/td][
+ ][td][img]/img/pkmn/1/d/t/s.png[/img][*Furfrou (A)*][/td][
+ ][td][img]/img/pkmn/s/v/k/q.png[/img][*Espurr (A)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/3/q/7/s.png[/img][*Meowstic (A)*][/td][
+ ][td][img]/img/pkmn/u/x/3/l.png[/img][*Honedge (A)*][/td][
+ ][td][img]/img/pkmn/e/u/q/k.png[/img][*Doublade (A)*][/td][
+ ][td][img]/img/pkmn/8/q/8/i.png[/img][*Aegislash (A)*][/td][
+ ][td][img]/img/pkmn/3/2/m/j.png[/img][*Aegislash (A)/Shield Forme*][/td][
+ ][td][img]/img/pkmn/y/3/z/h.png[/img][*Spritzee (A)*][/td][
+ ][td][img]/img/pkmn/l/4/x/d.png[/img][*Aromatisse (A)*][/td][
+ ][td][img]/img/pkmn/u/1/m/w.png[/img][*Swirlix (A)*][/td][
+ ][td][img]/img/pkmn/1/7/r/e.png[/img][*Slurpuff (A)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/s/h/j/c.png[/img][*Inkay (A)*][/td][
+ ][td][img]/img/pkmn/y/p/c/u.png[/img][*Malamar (A)*][/td][
+ ][td][img]/img/pkmn/a/k/k/9.png[/img][*Binacle (A)*][/td][
+ ][td][img]/img/pkmn/h/a/v/u.png[/img][*Barbaracle (A)*][/td][
+ ][td][img]/img/pkmn/e/1/f/a.png[/img][*Skrelp (A)*][/td][
+ ][td][img]/img/pkmn/a/p/2/9.png[/img][*Dragalge (A)*][/td][
+ ][td][img]/img/pkmn/w/7/y/0.png[/img][*Clauncher (A)*][/td][
+ ][td][img]/img/pkmn/o/1/t/h.png[/img][*Clawitzer (A)*][/td][
+ ][td][img]/img/pkmn/a/h/q/i.png[/img][*Helioptile (A)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/c/r/y/m.png[/img][*Heliolisk (A)*][/td][
+ ][td][img]/img/pkmn/7/l/3/9.png[/img][*Tyrunt (A)*][/td][
+ ][td][img]/img/pkmn/5/b/k/y.png[/img][*Tyrantrum (A)*][/td][
+ ][td][img]/img/pkmn/z/1/b/k.png[/img][*Amaura (A)*][/td][
+ ][td][img]/img/pkmn/q/0/c/m.png[/img][*Aurorus (A)*][/td][
+ ][td][img]/img/pkmn/u/9/2/h.png[/img][*Hawlucha (A)*][/td][
+ ][td][img]/img/pkmn/2/u/g/v.png[/img][*Dedenne (A)*][/td][
+ ][td][img]/img/pkmn/p/1/m/l.png[/img][*Carbink (A)*][/td][
+ ][td][img]/img/pkmn/p/f/o/m.png[/img][*Goomy (A)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/x/6/a/s.png[/img][*Sliggoo (A)*][/td][
+ ][td][img]/img/pkmn/f/5/d/i.png[/img][*Sliggoo (A)/Hisuian Forme*][/td][
+ ][td][img]/img/pkmn/m/u/z/4.png[/img][*Goodra (A)*][/td][
+ ][td][img]/img/pkmn/m/5/k/d.png[/img][*Goodra (A)/Hisuian Forme*][/td][
+ ][td][img]/img/pkmn/1/u/0/9.png[/img][*Klefki (A)*][/td][
+ ][td][img]/img/pkmn/3/n/t/7.png[/img][*Phantump (A)*][/td][
+ ][td][img]/img/pkmn/n/e/3/j.png[/img][*Trevenant (A)*][/td][
+ ][td][img]/img/pkmn/x/d/y/1.png[/img][*Pumpkaboo (A)*][/td][
+ ][td][img]/img/pkmn/k/b/z/l.png[/img][*Gourgeist (A)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/n/m/w/x.png[/img][*Bergmite (A)*][/td][
+ ][td][img]/img/pkmn/l/h/b/2.png[/img][*Avalugg (A)*][/td][
+ ][td][img]/img/pkmn/6/e/5/r.png[/img][*Avalugg (A)/Hisuian Forme*][/td][
+ ][td][img]/img/pkmn/5/g/6/y.png[/img][*Noibat (A)*][/td][
+ ][td][img]/img/pkmn/6/b/u/q.png[/img][*Noivern (A)*][/td][
+ ][td][img]/img/pkmn/2/9/k/x.png[/img][*Xerneas (A)*][/td][
+ ][td][img]/img/pkmn/o/a/4/q.png[/img][*Yveltal (A)*][/td][
+ ][td][img]/img/pkmn/4/t/5/h.png[/img][*Zygarde (A)/Core Forme*][/td][
+ ][td][img]/img/pkmn/4/p/5/3.png[/img][*Zygarde (A)/10% Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/6/j/s/r.png[/img][*Zygarde (A)/50% Forme*][/td][
+ ][td][img]/img/pkmn/6/c/v/d.png[/img][*Zygarde (A)/Complete Forme*][/td][
+ ][td][img]/img/pkmn/g/o/q/f.png[/img][*Diancie (A)*][/td][
+ ][td][img]/img/pkmn/5/z/u/q.png[/img][*Diancie (A)/Mega Forme*][/td][
+ ][td][img]/img/pkmn/o/a/y/o.png[/img][*Hoopa (A)*][/td][
+ ][td][img]/img/pkmn/t/c/e/a.png[/img][*Hoopa (A)/Unbound Forme*][/td][
+ ][td][img]/img/pkmn/6/c/n/5.png[/img][*Volcanion (A)*][/td][
+ ][td=2x1][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

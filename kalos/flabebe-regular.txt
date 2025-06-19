@@ -1,0 +1,134 @@
+[table][
+][tr][
+ ][th=9x1]Flabebe[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/u/d/b/q.png[/img][*Flabebe/White Flower*][/td][
+ ][td][img]/img/pkmn/9/c/8/4.png[/img][*Flabebe/Grey Flower*][/td][
+ ][td][img]/img/pkmn/o/c/u/g.png[/img][*Flabebe/Black Flower*][/td][
+ ][td][img]/img/pkmn/w/c/n/4.png[/img][*Flabebe/Dark Red Flower*][/td][
+ ][td][img]/img/pkmn/w/2/1/8.png[/img][*Flabebe/Red Flower*][/td][
+ ][td][img]/img/pkmn/k/y/h/r.png[/img][*Flabebe/Light Red Flower*][/td][
+ ][td][img]/img/pkmn/9/b/p/k.png[/img][*Flabebe/Dark Orange Flower*][/td][
+ ][td][img]/img/pkmn/z/4/n/0.png[/img][*Flabebe/Orange Flower*][/td][
+ ][td][img]/img/pkmn/q/3/c/4.png[/img][*Flabebe/Light Orange Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/p/m/f/g.png[/img][*Flabebe/Dark Yellow Flower*][/td][
+ ][td][img]/img/pkmn/y/z/4/m.png[/img][*Flabebe/Yellow Flower*][/td][
+ ][td][img]/img/pkmn/g/9/i/0.png[/img][*Flabebe/Light Yellow Flower*][/td][
+ ][td][img]/img/pkmn/a/b/1/c.png[/img][*Flabebe/Dark Green Flower*][/td][
+ ][td][img]/img/pkmn/8/c/h/g.png[/img][*Flabebe/Green Flower*][/td][
+ ][td][img]/img/pkmn/v/c/j/m.png[/img][*Flabebe/Light Green Flower*][/td][
+ ][td][img]/img/pkmn/t/w/h/y.png[/img][*Flabebe/Dark Blue Flower*][/td][
+ ][td][img]/img/pkmn/m/3/h/c.png[/img][*Flabebe/Blue Flower*][/td][
+ ][td][img]/img/pkmn/b/7/9/d.png[/img][*Flabebe/Light Blue Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/o/e/l/i.png[/img][*Flabebe/Dark Aqua Flower*][/td][
+ ][td][img]/img/pkmn/5/s/1/t.png[/img][*Flabebe/Aqua Flower*][/td][
+ ][td][img]/img/pkmn/w/c/r/y.png[/img][*Flabebe/Light Aqua Flower*][/td][
+ ][td][img]/img/pkmn/g/h/9/u.png[/img][*Flabebe/Dark Purple Flower*][/td][
+ ][td][img]/img/pkmn/l/g/t/a.png[/img][*Flabebe/Purple Flower*][/td][
+ ][td][img]/img/pkmn/q/h/j/y.png[/img][*Flabebe/Light Purple Flower*][/td][
+ ][td][img]/img/pkmn/l/h/b/b.png[/img][*Flabebe/Dark Pink Flower*][/td][
+ ][td][img]/img/pkmn/t/v/a/2.png[/img][*Flabebe/Pink Flower*][/td][
+ ][td][img]/img/pkmn/c/9/h/k.png[/img][*Flabebe/Light Pink Flower*][/td][
+][/tr][
+][tr][
+ ][th=9x1]Floette[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/7/w/d/n.png[/img][*Floette/White Flower*][/td][
+ ][td][img]/img/pkmn/t/n/o/b.png[/img][*Floette/Grey Flower*][/td][
+ ][td][img]/img/pkmn/d/3/9/p.png[/img][*Floette/Black Flower*][/td][
+ ][td][img]/img/pkmn/k/e/4/d.png[/img][*Floette/Dark Red Flower*][/td][
+ ][td][img]/img/pkmn/k/3/7/b.png[/img][*Floette/Red Flower*][/td][
+ ][td][img]/img/pkmn/i/a/5/k.png[/img][*Floette/Light Red Flower*][/td][
+ ][td][img]/img/pkmn/m/n/4/v.png[/img][*Floette/Dark Orange Flower*][/td][
+ ][td][img]/img/pkmn/k/6/w/x.png[/img][*Floette/Orange Flower*][/td][
+ ][td][img]/img/pkmn/6/3/p/f.png[/img][*Floette/Light Orange Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/m/4/p/c.png[/img][*Floette/Dark Yellow Flower*][/td][
+ ][td][img]/img/pkmn/i/c/y/8.png[/img][*Floette/Yellow Flower*][/td][
+ ][td][img]/img/pkmn/o/u/5/k.png[/img][*Floette/Light Yellow Flower*][/td][
+ ][td][img]/img/pkmn/9/w/o.png[/img][*Floette/Dark Green Flower*][/td][
+ ][td][img]/img/pkmn/3/0/3/o.png[/img][*Floette/Green Flower*][/td][
+ ][td][img]/img/pkmn/t/n/p/b.png[/img][*Floette/Light Green Flower*][/td][
+ ][td][img]/img/pkmn/h/1/i/c.png[/img][*Floette/Dark Blue Flower*][/td][
+ ][td][img]/img/pkmn/l/d/s/p.png[/img][*Floette/Blue Flower*][/td][
+ ][td][img]/img/pkmn/5/p/0.png[/img][*Floette/Light Blue Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/n/j/f/u.png[/img][*Floette/Dark Aqua Flower*][/td][
+ ][td][img]/img/pkmn/9/1/s/9.png[/img][*Floette/Aqua Flower*][/td][
+ ][td][img]/img/pkmn/m/c/f/d.png[/img][*Floette/Light Aqua Flower*][/td][
+ ][td][img]/img/pkmn/l/n/5/l.png[/img][*Floette/Dark Purple Flower*][/td][
+ ][td][img]/img/pkmn/v/o/f/j.png[/img][*Floette/Purple Flower*][/td][
+ ][td][img]/img/pkmn/e/d/n/o.png[/img][*Floette/Light Purple Flower*][/td][
+ ][td][img]/img/pkmn/w/p/h/f.png[/img][*Floette/Dark Pink Flower*][/td][
+ ][td][img]/img/pkmn/8/2/a/v.png[/img][*Floette/Pink Flower*][/td][
+ ][td][img]/img/pkmn/i/3/2/f.png[/img][*Floette/Light Pink Flower*][/td][
+][/tr][
+][tr][
+ ][th=9x1]Florges[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/o/2/b/q.png[/img][*Florges/White Flower*][/td][
+ ][td][img]/img/pkmn/7/m/6/z.png[/img][*Florges/Grey Flower*][/td][
+ ][td][img]/img/pkmn/l/c/6/e.png[/img][*Florges/Black Flower*][/td][
+ ][td][img]/img/pkmn/e/k/x/z.png[/img][*Florges/Dark Red Flower*][/td][
+ ][td][img]/img/pkmn/u/e/i/h.png[/img][*Florges/Red Flower*][/td][
+ ][td][img]/img/pkmn/m/m/v/q.png[/img][*Florges/Light Red Flower*][/td][
+ ][td][img]/img/pkmn/8/c/z/c.png[/img][*Florges/Dark Orange Flower*][/td][
+ ][td][img]/img/pkmn/p/1/r/b.png[/img][*Florges/Orange Flower*][/td][
+ ][td][img]/img/pkmn/s/1/2/k.png[/img][*Florges/Light Orange Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/7/s/2/w.png[/img][*Florges/Dark Yellow Flower*][/td][
+ ][td][img]/img/pkmn/6/k/m/4.png[/img][*Florges/Yellow Flower*][/td][
+ ][td][img]/img/pkmn/z/d/a/i.png[/img][*Florges/Light Yellow Flower*][/td][
+ ][td][img]/img/pkmn/b/4/i/9.png[/img][*Florges/Dark Green Flower*][/td][
+ ][td][img]/img/pkmn/y/n/m/a.png[/img][*Florges/Green Flower*][/td][
+ ][td][img]/img/pkmn/h/8/y/2.png[/img][*Florges/Light Green Flower*][/td][
+ ][td][img]/img/pkmn/m/g/v/f.png[/img][*Florges/Dark Blue Flower*][/td][
+ ][td][img]/img/pkmn/o/h/p/m.png[/img][*Florges/Blue Flower*][/td][
+ ][td][img]/img/pkmn/e/a/2/a.png[/img][*Florges/Light Blue Flower*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/3/y/s.png[/img][*Florges/Dark Aqua Flower*][/td][
+ ][td][img]/img/pkmn/q/7/u/d.png[/img][*Florges/Aqua Flower*][/td][
+ ][td][img]/img/pkmn/5/g/1/0.png[/img][*Florges/Light Aqua Flower*][/td][
+ ][td][img]/img/pkmn/8/w/m/7.png[/img][*Florges/Dark Purple Flower*][/td][
+ ][td][img]/img/pkmn/g/n/d/p.png[/img][*Florges/Purple Flower*][/td][
+ ][td][img]/img/pkmn/u/p/9/m.png[/img][*Florges/Light Purple Flower*][/td][
+ ][td][img]/img/pkmn/w/e/1/p.png[/img][*Florges/Dark Pink Flower*][/td][
+ ][td][img]/img/pkmn/7/b/o/l.png[/img][*Florges/Pink Flower*][/td][
+ ][td][img]/img/pkmn/j/l/l/a.png[/img][*Florges/Light Pink Flower*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

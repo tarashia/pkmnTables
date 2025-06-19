@@ -1,0 +1,55 @@
+[table][
+][tr][
+ ][th=9x1]Albino Vivillon[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/y/6/2/q.png[/img][*Vivillon (A)/Polar*][/td][
+ ][td][img]/img/pkmn/h/j/h/v.png[/img][*Vivillon (A)/Tundra*][/td][
+ ][td][img]/img/pkmn/e/f/9/7.png[/img][*Vivillon (A)/Continental*][/td][
+ ][td][img]/img/pkmn/x/u/8/m.png[/img][*Vivillon (A)/Garden*][/td][
+ ][td][img]/img/pkmn/i/k/k/u.png[/img][*Vivillon (A)/Elegant*][/td][
+ ][td][img]/img/pkmn/8/i/2/0.png[/img][*Vivillon (A)/Icy Snow*][/td][
+ ][td][img]/img/pkmn/9/i/v/p.png[/img][*Vivillon (A)/Modern*][/td][
+ ][td][img]/img/pkmn/v/7/8/f.png[/img][*Vivillon (A)/Marine*][/td][
+ ][td][img]/img/pkmn/x/p/l/e.png[/img][*Vivillon (A)/Archipelago*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/s/e/b/x.png[/img][*Vivillon (A)/High Plains*][/td][
+ ][td][img]/img/pkmn/y/8/s/e.png[/img][*Vivillon (A)/Sandstorm*][/td][
+ ][td][img]/img/pkmn/h/w/h/o.png[/img][*Vivillon (A)/River*][/td][
+ ][td][img]/img/pkmn/6/d/v/p.png[/img][*Vivillon (A)/Monsoon*][/td][
+ ][td][img]/img/pkmn/1/9/p/n.png[/img][*Vivillon (A)/Savanna*][/td][
+ ][td][img]/img/pkmn/5/h/n/x.png[/img][*Vivillon (A)/Sun*][/td][
+ ][td][img]/img/pkmn/o/f/u/v.png[/img][*Vivillon (A)/Ocean*][/td][
+ ][td][img]/img/pkmn/8/f/q/x.png[/img][*Vivillon (A)/Jungle*][/td][
+ ][td][img]/img/pkmn/j/r/b/4.png[/img][*Vivillon (A)/Fancy*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/8/d/s/t.png[/img][*Vivillon (A)/Poke Ball*][/td][
+ ][td=8x1][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

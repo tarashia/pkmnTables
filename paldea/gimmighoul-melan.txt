@@ -1,0 +1,45 @@
+[table][
+][tr][
+ ][th=9x1]Melan Gimmighoul Chests[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/t/i/n.png[/img][*Gimmighoul (M)/Cute Box*][/td][
+ ][td][img]/img/pkmn/8/l/5/i.png[/img][*Gimmighoul (M)/Dainty Box*][/td][
+ ][td][img]/img/pkmn/6/m/h/p.png[/img][*Gimmighoul (M)/Deluxe Box*][/td][
+ ][td][img]/img/pkmn/y/w/6/j.png[/img][*Gimmighoul (M)/Glittery Box*][/td][
+ ][td][img]/img/pkmn/u/u/u/9.png[/img][*Gimmighoul (M)/Gorgeous Box*][/td][
+ ][td][img]/img/pkmn/z/u/h/i.png[/img][*Gimmighoul (M)/Hard Box*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/g/z/5.png[/img][*Gimmighoul (M)/Heavy Box*][/td][
+ ][td][img]/img/pkmn/k/4/d/b.png[/img][*Gimmighoul (M)/Light Box*][/td][
+ ][td][img]/img/pkmn/u/c/p/9.png[/img][*Gimmighoul (M)/Nifty Box*][/td][
+ ][td][img]/img/pkmn/y/m/y/k.png[/img][*Gimmighoul (M)/Pretty Box*][/td][
+ ][td][img]/img/pkmn/n/5/k/x.png[/img][*Gimmighoul (M)/Shiny Box*][/td][
+ ][td][img]/img/pkmn/5/1/y/7.png[/img][*Gimmighoul (M)/Sinister Box*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

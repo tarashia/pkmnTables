@@ -1,0 +1,220 @@
+[table][
+][tr][
+ ][th=9x1]Variants[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/1/q/d/i.png[/img][*Saiyan Rattata/*][/td][
+ ][td][img]/img/pkmn/a/d/w/a.png[/img][*Super-Saiyan Rattata/*][/td][
+ ][td][img]/img/pkmn/f/o/c/e.png[/img][*Super-Saiyan Raticate/*][/td][
+ ][td][img]/img/pkmn/w/7/y/j.png[/img][*Super-Saiyan 2 Raticate/*][/td][
+ ][td][img]/img/pkmn/3/g/m/q.png[/img][*Super-Saiyan 3 Raticate/*][/td][
+ ][td][img]/img/pkmn/l/6/s/2.png[/img][*Super-Saiyan 4 Raticate/*][/td][
+ ][td][img]/img/pkmn/m/m/y/i.png[/img][*Spearow/Savage*][/td][
+ ][td][img]/img/pkmn/t/p/v/h.png[/img][*Fearow/Savage*][/td][
+ ][td][img]/img/pkmn/2/g/y/n.png[/img][*Flying Pichu/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/1/1/4/5.png[/img][*Surfing Pichu/*][/td][
+ ][td][img]/img/pkmn/y/p/g/j.png[/img][*Flying Pikachu/*][/td][
+ ][td][img]/img/pkmn/1/e/x/5.png[/img][*Surfing Pikachu/*][/td][
+ ][td][img]/img/pkmn/g/q/j/d.png[/img][*Snowboarding Pikachu/*][/td][
+ ][td][img]/img/pkmn/3/s/z/d.png[/img][*Flying Raichu/*][/td][
+ ][td][img]/img/pkmn/u/j/x/u.png[/img][*Surfing Raichu/*][/td][
+ ][td][img]/img/pkmn/5/4/r/h.png[/img][*Snowboarding Raichu/*][/td][
+ ][td][img]/img/pkmn/i/c/o/s.png[/img][*Sandslash/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/x/1/f/n.png[/img][*Shooting Star Cleffa/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/y/t/8/d.png[/img][*Shooting Star Clefairy/*][/td][
+ ][td][img]/img/pkmn/j/p/x/p.png[/img][*Shooting Star Clefable/*][/td][
+ ][td][img]/img/pkmn/5/g/2/z.png[/img][*Koroku/*][/td][
+ ][td][img]/img/pkmn/3/e/o/4.png[/img][*Kyukori/*][/td][
+ ][td][img]/img/pkmn/s/f/r/j.png[/img][*Guild Igglybuff/*][/td][
+ ][td][img]/img/pkmn/v/u/8/u.png[/img][*Guild Jigglypuff/*][/td][
+ ][td][img]/img/pkmn/5/9/9/e.png[/img][*Guild Wigglytuff/*][/td][
+ ][td][img]/img/pkmn/9/o/7/f.png[/img][*Psyduck/Lucky Duck*][/td][
+ ][td][img]/img/pkmn/q/a/x/z.png[/img][*Golduck/Lucky Duck*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/j/e/a/2.png[/img][*Apocalyptic Growlithe/*][/td][
+ ][td][img]/img/pkmn/7/1/k/9.png[/img][*Apocalyptic Arcanine/*][/td][
+ ][td][img]/img/pkmn/u/v/b/3.png[/img][*Snowpoke/*][/td][
+ ][td][img]/img/pkmn/7/q/b/m.png[/img][*Snowbro/*][/td][
+ ][td][img]/img/pkmn/7/5/7/4.png[/img][*Snowking/*][/td][
+ ][td][img]/img/pkmn/8/b/2/a.png[/img][*Gastly/Bonfire*][/td][
+ ][td][img]/img/pkmn/p/o/y/o.png[/img][*Haunter/Bonfire*][/td][
+ ][td][img]/img/pkmn/i/4/1/d.png[/img][*Gengar/Bonfire*][/td][
+ ][td][img]/img/pkmn/i/4/9/1.png[/img][*Death Star Voltorb/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/3/f/e/g.png[/img][*Death Star Electrode/*][/td][
+ ][td][img]/img/pkmn/e/i/v/3.png[/img][*Stone Horn/*][/td][
+ ][td][img]/img/pkmn/i/w/a/z.png[/img][*Lanturn/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/v/o/9/k.png[/img][*Early Bird Natu/*][/td][
+ ][td][img]/img/pkmn/8/s/j/s.png[/img][*Early Bird Xatu/*][/td][
+ ][td][img]/img/pkmn/m/e/m/i.png[/img][*Sudowoodo/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/4/9/i/y.png[/img][*Wooper/Galvanic*][/td][
+ ][td][img]/img/pkmn/a/h/7/0.png[/img][*Quagsire/Galvanic*][/td][
+ ][td][img]/img/pkmn/f/2/n/k.png[/img][*Gligar/Vampire*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/o/y/d.png[/img][*Gliscor/Vampire*][/td][
+ ][td][img]/img/pkmn/2/j/1/8.png[/img][*Scaracross/*][/td][
+ ][td][img]/img/pkmn/u/0/3/5.png[/img][*Snichu/*][/td][
+ ][td][img]/img/pkmn/u/z/f/5.png[/img][*Vilechu/*][/td][
+ ][td][img]/img/pkmn/o/f/h/h.png[/img][*Teddicursa/*][/td][
+ ][td][img]/img/pkmn/o/f/i/w.png[/img][*Cursaring/*][/td][
+ ][td][img]/img/pkmn/b/7/e/2.png[/img][*Blue Moon Slugma/*][/td][
+ ][td][img]/img/pkmn/8/6/h/m.png[/img][*Blue Moon Magcargo/*][/td][
+ ][td][img]/img/pkmn/3/x/a/6.png[/img][*Houndour/Orthrus*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/q/e/y/s.png[/img][*Frosdour/*][/td][
+ ][td][img]/img/pkmn/p/j/n/n.png[/img][*Houndoom/Cerberus*][/td][
+ ][td][img]/img/pkmn/m/z/7/m.png[/img][*Chilldoom/*][/td][
+ ][td][img]/img/pkmn/1/2/9/x.png[/img][*Donphan/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/b/l/p/2.png[/img][*XD001/*][/td][
+ ][td][img]/img/pkmn/1/6/h/1.png[/img][*Torchic/Inferno*][/td][
+ ][td][img]/img/pkmn/f/p/2/y.png[/img][*Combusken/Inferno*][/td][
+ ][td][img]/img/pkmn/7/n/b/y.png[/img][*Blaziken/Inferno*][/td][
+ ][td][img]/img/pkmn/s/6/h/n.png[/img][*Apocalyptic Poochyena/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/k/l/p/0.png[/img][*Apocalyptic Mightyena/*][/td][
+ ][td][img]/img/pkmn/j/t/s/h.png[/img][*Snoralts/*][/td][
+ ][td][img]/img/pkmn/h/h/g/b.png[/img][*Snolia/*][/td][
+ ][td][img]/img/pkmn/h/c/o/e.png[/img][*Frosvoir/*][/td][
+ ][td][img]/img/pkmn/y/p/a/a.png[/img][*Glaillade/*][/td][
+ ][td][img]/img/pkmn/c/s/x/e.png[/img][*Masquerain/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/3/4/7/g.png[/img][*Apocalyptic Shroomish/*][/td][
+ ][td][img]/img/pkmn/f/f/s/m.png[/img][*Apocalyptic Breloom/*][/td][
+ ][td][img]/img/pkmn/d/o/j/t.png[/img][*Exploud/Totem Forme Q*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/1/f/j/m.png[/img][*Numel/Arctic*][/td][
+ ][td][img]/img/pkmn/r/f/k/k.png[/img][*Camerupt/Arctic*][/td][
+ ][td][img]/img/pkmn/e/p/3/s.png[/img][*Cactaboo/*][/td][
+ ][td][img]/img/pkmn/v/c/p/a.png[/img][*Geisturne/*][/td][
+ ][td][img]/img/pkmn/m/a/h/z.png[/img][*Whiscash/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/6/9/r/s.png[/img][*Walrein/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/5/d/o/0.png[/img][*Ryukuza/*][/td][
+ ][td][img]/img/pkmn/y/1/4/4.png[/img][*Magquaza/*][/td][
+ ][td][img]/img/pkmn/a/o/8/j.png[/img][*Seasonal Turtwig/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/i/k/f/p.png[/img][*Seasonal Grotle/*][/td][
+ ][td][img]/img/pkmn/m/v/d/e.png[/img][*Seasonal Torterra/*][/td][
+ ][td][img]/img/pkmn/x/v/1/f.png[/img][*Bidoof/Igneous*][/td][
+ ][td][img]/img/pkmn/y/1/6/d.png[/img][*Bibarel/Igneous*][/td][
+ ][td][img]/img/pkmn/r/t/3/s.png[/img][*Shinxel/*][/td][
+ ][td][img]/img/pkmn/m/0/t/b.png[/img][*Fluxio/*][/td][
+ ][td][img]/img/pkmn/7/j/p/t.png[/img][*Fluxray/*][/td][
+ ][td][img]/img/pkmn/6/s/r/v.png[/img][*Fluxray/Mega Forme Q*][/td][
+ ][td][img]/img/pkmn/i/q/c/5.png[/img][*Iron Cranium/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/v/d/u/l.png[/img][*Snow Combee/*][/td][
+ ][td][img]/img/pkmn/g/r/1/x.png[/img][*Snow Vespiquen/*][/td][
+ ][td][img]/img/pkmn/q/y/k/o.png[/img][*Snow Vespiquen/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/b/r/y/e.png[/img][*Glameow/Siberian*][/td][
+ ][td][img]/img/pkmn/2/u/r/9.png[/img][*Purugly/Siberian*][/td][
+ ][td][img]/img/pkmn/u/4/5/y.png[/img][*Skuntank/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/z/e/g/j.png[/img][*Happiny/Basket*][/td][
+ ][td][img]/img/pkmn/9/s/x/p.png[/img][*Chansey/Basket*][/td][
+ ][td][img]/img/pkmn/7/e/j/l.png[/img][*Blissey/Basket*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/k/v/q/m.png[/img][*Spiritomb/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/o/v/s/2.png[/img][*Gibolu/*][/td][
+ ][td][img]/img/pkmn/u/w/s/6.png[/img][*Gabolu/*][/td][
+ ][td][img]/img/pkmn/s/k/o/4.png[/img][*Garcario/*][/td][
+ ][td][img]/img/pkmn/o/v/a/t.png[/img][*Mantine/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/r/3/k/5.png[/img][*Porygon-Z/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/1/u/2/z.png[/img][*Dialga/Primal Forme Q*][/td][
+ ][td][img]/img/pkmn/9/5/g/5.png[/img][*Palkia/Primal Forme Q*][/td][
+ ][td][img]/img/pkmn/8/u/9/h.png[/img][*Purrloin/Hallowe'en Witch*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/g/n/u/4.png[/img][*Liepard/Hallowe'en Witch*][/td][
+ ][td][img]/img/pkmn/l/3/5/3.png[/img][*Leavanny/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/n/f/y/g.png[/img][*Maractus/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/2/g/c/9.png[/img][*Tangled Vines/*][/td][
+ ][td][img]/img/pkmn/b/o/3/7.png[/img][*Frillish/Bubbly Forme*][/td][
+ ][td][img]/img/pkmn/9/g/v/3.png[/img][*Jellicent/Bubbly Forme*][/td][
+ ][td][img]/img/pkmn/w/t/l/y.png[/img][*Galvantula/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/2/p/5/l.png[/img][*Litwick/Erupt*][/td][
+ ][td][img]/img/pkmn/n/u/j/i.png[/img][*Lavamp/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/j/j/1/8.png[/img][*Yukitern/*][/td][
+ ][td][img]/img/pkmn/4/4/h/r.png[/img][*Apocalyptic Golett/*][/td][
+ ][td][img]/img/pkmn/z/v/p/p.png[/img][*Apocalyptic Golurk/*][/td][
+ ][td][img]/img/pkmn/m/3/r/1.png[/img][*Braviary/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/o/4/b/u.png[/img][*Mandibuzz/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/o/a/m/3.png[/img][*Deinglitch/*][/td][
+ ][td][img]/img/pkmn/o/r/x/g.png[/img][*Zweiglitch/*][/td][
+ ][td][img]/img/pkmn/l/l/c/f.png[/img][*Hydreglitch/*][/td][
+ ][td][img]/img/pkmn/u/q/h/b.png[/img][*Talonflame/Totem Forme Q*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/f/q/f/y.png[/img][*Glileo/*][/td][
+ ][td][img]/img/pkmn/7/q/z/m.png[/img][*Pyriscor/*][/td][
+ ][td][img]/img/pkmn/k/x/e/i.png[/img][*Honedge/Rose Gift*][/td][
+ ][td][img]/img/pkmn/q/m/5/y.png[/img][*Doublade/Rose Gift*][/td][
+ ][td][img]/img/pkmn/g/c/y/5.png[/img][*Aegislash/Rose Shield*][/td][
+ ][td][img]/img/pkmn/g/e/3.png[/img][*Aegislash/Rose Bouquet*][/td][
+ ][td][img]/img/pkmn/2/l/9/v.png[/img][*Spritzkrow/*][/td][
+ ][td][img]/img/pkmn/v/o/w/z.png[/img][*Aromakrow/*][/td][
+ ][td][img]/img/pkmn/6/0/h/3.png[/img][*Malamar/Totem Forme Q*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/i/e/c/2.png[/img][*Iron Seagrass*][/td][
+ ][td][img]/img/pkmn/b/4/e/t.png[/img][*Trevenant/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/o/g/n/a.png[/img][*Noismog/*][/td][
+ ][td][img]/img/pkmn/j/i/r/l.png[/img][*Noismoem/*][/td][
+ ][td][img]/img/pkmn/r/d/i/g.png[/img][*Solgavern/*][/td][
+ ][td][img]/img/pkmn/2/w/9/s.png[/img][*Lunavern/*][/td][
+ ][td][img]/img/pkmn/k/u/e/9.png[/img][*Incineroar/Feral*][/td][
+ ][td][img]/img/pkmn/j/k/6/n.png[/img][*Oricorio/Pointe Style*][/td][
+ ][td][img]/img/pkmn/b/o/e/z.png[/img][*Ruffwool/*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/5/9/4/l.png[/img][*Lycanwool/Midday Forme*][/td][
+ ][td][img]/img/pkmn/n/b/b/o.png[/img][*Lycanwool/Midnight Forme*][/td][
+ ][td][img]/img/pkmn/3/5/m/n.png[/img][*Magipede/*][/td][
+ ][td][img]/img/pkmn/b/h/9/m.png[/img][*Mystiskorch/*][/td][
+ ][td][img]/img/pkmn/d/v/x/3.png[/img][*Elekimp/*][/td][
+ ][td][img]/img/pkmn/c/w/8/2.png[/img][*Electagrem/*][/td][
+ ][td][img]/img/pkmn/h/0/t/d.png[/img][*Electisnarl/*][/td][
+ ][td][img]/img/pkmn/q/h/z/3.png[/img][*Frosmoth/Totem Forme Q*][/td][
+ ][td][img]/img/pkmn/b/n/h/q.png[/img][*Glimmora/Totem Forme Q*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/5/v/k/n.png[/img][*Clodsire/Totem Forme Q*][/td][
+ ][td=8x1][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

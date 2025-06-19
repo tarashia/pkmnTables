@@ -1,0 +1,45 @@
+[table][
+][tr][
+ ][th=9x1]Albino Gimmighoul Chests[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/n/m/o/v.png[/img][*Gimmighoul (A)/Cute Box*][/td][
+ ][td][img]/img/pkmn/r/b/t/7.png[/img][*Gimmighoul (A)/Dainty Box*][/td][
+ ][td][img]/img/pkmn/q/l/s/u.png[/img][*Gimmighoul (A)/Deluxe Box*][/td][
+ ][td][img]/img/pkmn/9/d/y/2.png[/img][*Gimmighoul (A)/Glittery Box*][/td][
+ ][td][img]/img/pkmn/y/9/t/r.png[/img][*Gimmighoul (A)/Gorgeous Box*][/td][
+ ][td][img]/img/pkmn/f/u/b/b.png[/img][*Gimmighoul (A)/Hard Box*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/4/z/o/s.png[/img][*Gimmighoul (A)/Heavy Box*][/td][
+ ][td][img]/img/pkmn/6/o/x/8.png[/img][*Gimmighoul (A)/Light Box*][/td][
+ ][td][img]/img/pkmn/c/d/5/g.png[/img][*Gimmighoul (A)/Nifty Box*][/td][
+ ][td][img]/img/pkmn/k/1/4/k.png[/img][*Gimmighoul (A)/Pretty Box*][/td][
+ ][td][img]/img/pkmn/4/w/5/d.png[/img][*Gimmighoul (A)/Shiny Box*][/td][
+ ][td][img]/img/pkmn/s/k/4/d.png[/img][*Gimmighoul (A)/Sinister Box*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

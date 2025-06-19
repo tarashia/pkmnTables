@@ -1,0 +1,113 @@
+[table][
+][tr][
+ ][th=9x1]Shiny PFQ Megas[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/s/k/3/d.png[/img][*Butterfree/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/4/a/w/p.png[/img][*Arbok/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/k/j/0/h.png[/img][*Raichu/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/d/z/u/s.png[/img][*Ninetales/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/o/g/d/8.png[/img][*Persian/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/u/6/y.png[/img][*Arcanine/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/y/g/g.png[/img][*Rapidash/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/a/s/8/9.png[/img][*Farfetch'd/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/c/x/r/1.png[/img][*Dewgong/Mega Forme Q (S)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/d/l/u/8.png[/img][*Marowak/Alolan Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/v/a/8/l.png[/img][*Jynx/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/y/f/u/i.png[/img][*Lapras/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/y/1/7/g.png[/img][*Vaporeon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/4/1/i/o.png[/img][*Jolteon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/2/7/d/1.png[/img][*Flareon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/e/g/b/r.png[/img][*Espeon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/t/9/a/1.png[/img][*Umbreon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/r/c/u/u.png[/img][*Leafeon/Mega Forme Q (S)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/9/y/7/n.png[/img][*Glaceon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/o/c/y/n.png[/img][*Sylveon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/j/4/t/v.png[/img][*Dragonite/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/9/s/d/a.png[/img][*Mew/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/f/5/g/c.png[/img][*Furret/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/4/l/i/9.png[/img][*Jumpluff/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/y/z/r/h.png[/img][*Sunflora/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/e/q/5/o.png[/img][*Girafarig/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/o/a/a/t.png[/img][*Dunsparce/Mega Forme Q (S)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/s/0/s/l.png[/img][*Weavile/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/g/g/p/b.png[/img][*Skarmory/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/1/5/k/4.png[/img][*Lugia/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/h/7/5/0.png[/img][*Ho-oh/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/p/u/a/p.png[/img][*Celebi/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/8/z/0/p.png[/img][*Mightyena/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/i/e/f/u.png[/img][*Breloom/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/s/z/g/j.png[/img][*Manectric/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/r/v/e/x.png[/img][*Wailord/Mega Forme Q (S)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/c/v/n/i.png[/img][*Flygon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/h/5/7/g.png[/img][*Zangoose/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/2/p/3/d.png[/img][*Seviper/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/i/5/a/t.png[/img][*Milotic/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/l/t/t/w.png[/img][*Froslass/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/z/0/6/z.png[/img][*Jirachi/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/3/m/g/k.png[/img][*Luxray/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/k/h/q/7.png[/img][*Floatzel/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/8/p/9/d.png[/img][*Carnivine/Mega Forme Q (S)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/1/t/b/7.png[/img][*Lumineon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/g/8/f/t.png[/img][*Giratina/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/d/d/g/1.png[/img][*Manaphy/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/y/w/j/d.png[/img][*Shaymin/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/o/3/7/d.png[/img][*Victini/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/1/7/2/y.png[/img][*Liepard/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/r/2/4/6.png[/img][*Scolipede/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/w/5/6/z.png[/img][*Scrafty/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/q/y/r/u.png[/img][*Zoroark/Mega Forme Q (S)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/d/o/5/d.png[/img][*Sawsbuck/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/g/t/c/t.png[/img][*Chandelure/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/y/k/x/j.png[/img][*Haxorus/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/7/j/y/c.png[/img][*Beartic/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/7/d/b/y.png[/img][*Druddigon/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/e/2/z/l.png[/img][*Pyroar/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/5/7/g/h.png[/img][*Gogoat/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/p/4/x/o.png[/img][*Heliolisk/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/v/m/3/5.png[/img][*Hawlucha/Mega Forme Q (S)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/t/k/r/d.png[/img][*Goodra/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/4/t.png[/img][*Noivern/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/r/0/d/z.png[/img][*Tsareena/Mega Forme Q (S)*][/td][
+ ][td][img]/img/pkmn/e/8/n/g.png[/img][*Marshadow/Mega Forme Q (S)*][/td][
+ ][td=5x1][/td][
+ ][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

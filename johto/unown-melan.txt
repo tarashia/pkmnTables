@@ -1,0 +1,66 @@
+[table][
+][tr][
+ ][th=9x1]Melan Unown[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/x/v/o/w.png[/img][*Unown (M)/! Forme*][/td][
+ ][td][img]/img/pkmn/7/x/h/m.png[/img][*Unown (M)/? Forme*][/td][
+ ][td][img]/img/pkmn/2/j/q/1.png[/img][*Unown (M)/A Forme*][/td][
+ ][td][img]/img/pkmn/o/q/n/h.png[/img][*Unown (M)/B Forme*][/td][
+ ][td][img]/img/pkmn/e/o/2/0.png[/img][*Unown (M)/C Forme*][/td][
+ ][td][img]/img/pkmn/v/g/2/q.png[/img][*Unown (M)/D Forme*][/td][
+ ][td][img]/img/pkmn/7/i/s/2.png[/img][*Unown (M)/E Forme*][/td][
+ ][td][img]/img/pkmn/a/o/4/8.png[/img][*Unown (M)/F Forme*][/td][
+ ][td][img]/img/pkmn/o/9/m/a.png[/img][*Unown (M)/G Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/3/w/7/n.png[/img][*Unown (M)/H Forme*][/td][
+ ][td][img]/img/pkmn/k/7/n/p.png[/img][*Unown (M)/I Forme*][/td][
+ ][td][img]/img/pkmn/n/5/z/n.png[/img][*Unown (M)/J Forme*][/td][
+ ][td][img]/img/pkmn/5/b/3/s.png[/img][*Unown (M)/K Forme*][/td][
+ ][td][img]/img/pkmn/4/6/s/1.png[/img][*Unown (M)/L Forme*][/td][
+ ][td][img]/img/pkmn/b/z/q/r.png[/img][*Unown (M)/M Forme*][/td][
+ ][td][img]/img/pkmn/8/l/b/2.png[/img][*Unown (M)/N Forme*][/td][
+ ][td][img]/img/pkmn/h/v/q/o.png[/img][*Unown (M)/O Forme*][/td][
+ ][td][img]/img/pkmn/6/5/6/9.png[/img][*Unown (M)/P Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/x/c/6/g.png[/img][*Unown (M)/Q Forme*][/td][
+ ][td][img]/img/pkmn/z/s/x/6.png[/img][*Unown (M)/R Forme*][/td][
+ ][td][img]/img/pkmn/m/6/1/8.png[/img][*Unown (M)/S Forme*][/td][
+ ][td][img]/img/pkmn/c/9/m/h.png[/img][*Unown (M)/T Forme*][/td][
+ ][td][img]/img/pkmn/b/b/z/7.png[/img][*Unown (M)/U Forme*][/td][
+ ][td][img]/img/pkmn/7/k/m/p.png[/img][*Unown (M)/V Forme*][/td][
+ ][td][img]/img/pkmn/7/g/8/s.png[/img][*Unown (M)/W Forme*][/td][
+ ][td][img]/img/pkmn/b/5/b/2.png[/img][*Unown (M)/X Forme*][/td][
+ ][td][img]/img/pkmn/l/f/z/w.png[/img][*Unown (M)/Y Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/7/k/p/y.png[/img][*Unown (M)/Z Forme*][/td][
+ ][td=8x1][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

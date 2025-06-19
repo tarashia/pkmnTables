@@ -1,0 +1,66 @@
+[table][
+][tr][
+ ][th=9x1]Unown[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/3/a.png[/img][*Unown/! Forme*][/td][
+ ][td][img]/img/pkmn/5/i/3.png[/img][*Unown/? Forme*][/td][
+ ][td][img]/img/pkmn/1/x/i.png[/img][*Unown/A Forme*][/td][
+ ][td][img]/img/pkmn/y/5/w.png[/img][*Unown/B Forme*][/td][
+ ][td][img]/img/pkmn/8/a/y.png[/img][*Unown/C Forme*][/td][
+ ][td][img]/img/pkmn/6/h/9.png[/img][*Unown/D Forme*][/td][
+ ][td][img]/img/pkmn/m/u/n.png[/img][*Unown/E Forme*][/td][
+ ][td][img]/img/pkmn/a/c/u.png[/img][*Unown/F Forme*][/td][
+ ][td][img]/img/pkmn/6/r/u.png[/img][*Unown/G Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/p/t/2.png[/img][*Unown/H Forme*][/td][
+ ][td][img]/img/pkmn/y/h/g.png[/img][*Unown/I Forme*][/td][
+ ][td][img]/img/pkmn/l/l/r.png[/img][*Unown/J Forme*][/td][
+ ][td][img]/img/pkmn/4/p/t.png[/img][*Unown/K Forme*][/td][
+ ][td][img]/img/pkmn/p/w/a.png[/img][*Unown/L Forme*][/td][
+ ][td][img]/img/pkmn/k/g/6.png[/img][*Unown/M Forme*][/td][
+ ][td][img]/img/pkmn/6/7/f.png[/img][*Unown/N Forme*][/td][
+ ][td][img]/img/pkmn/6/e/l.png[/img][*Unown/O Forme*][/td][
+ ][td][img]/img/pkmn/p/h/l.png[/img][*Unown/P Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/r/o/2.png[/img][*Unown/Q Forme*][/td][
+ ][td][img]/img/pkmn/c/y/u.png[/img][*Unown/R Forme*][/td][
+ ][td][img]/img/pkmn/2/r/w.png[/img][*Unown/S Forme*][/td][
+ ][td][img]/img/pkmn/c/m/9.png[/img][*Unown/T Forme*][/td][
+ ][td][img]/img/pkmn/k/6/b.png[/img][*Unown/U Forme*][/td][
+ ][td][img]/img/pkmn/8/x/z.png[/img][*Unown/V Forme*][/td][
+ ][td][img]/img/pkmn/p/g.png[/img][*Unown/W Forme*][/td][
+ ][td][img]/img/pkmn/h/1/n.png[/img][*Unown/X Forme*][/td][
+ ][td][img]/img/pkmn/m/r/m.png[/img][*Unown/Y Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/j/o.png[/img][*Unown/Z Forme*][/td][
+ ][td=8x1][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

@@ -17,7 +17,7 @@ if(header.innerText.includes('Pokemon in Tables')) {
 
 function runConvert() {
     console.log('Converting');
-    tables = document.querySelectorAll('.accordion table');
+    tables = document.querySelectorAll('table');
     codes = document.querySelectorAll('.code .panel > div');
     pkmnRegex = /\[pkmn=([^\]]+)\]/gm;
     imgRegex = /static\.pokefarm\.com(\/img\/pkmn[^\.]+\.png)/;

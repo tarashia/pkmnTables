@@ -1,0 +1,154 @@
+[table][
+][tr][
+ ][th=9x1]Galar[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/q/u/j/t.png[/img][*Grookey*][/td][
+ ][td][img]/img/pkmn/1/1/8/a.png[/img][*Thwackey*][/td][
+ ][td][img]/img/pkmn/7/t/5.png[/img][*Rillaboom*][/td][
+ ][td][img]/img/pkmn/w/z/x.png[/img][*Scorbunny*][/td][
+ ][td][img]/img/pkmn/h/4/z/d.png[/img][*Raboot*][/td][
+ ][td][img]/img/pkmn/b/3/q/6.png[/img][*Cinderace*][/td][
+ ][td][img]/img/pkmn/x/7/8/1.png[/img][*Sobble*][/td][
+ ][td][img]/img/pkmn/y/f/h/5.png[/img][*Drizzile*][/td][
+ ][td][img]/img/pkmn/d/9/w/y.png[/img][*Inteleon*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/z/m/6/l.png[/img][*Skwovet*][/td][
+ ][td][img]/img/pkmn/f/i/k/w.png[/img][*Greedent*][/td][
+ ][td][img]/img/pkmn/6/n/6/x.png[/img][*Rookidee*][/td][
+ ][td][img]/img/pkmn/y/d/6/v.png[/img][*Corvisquire*][/td][
+ ][td][img]/img/pkmn/h/7/7/q.png[/img][*Corviknight*][/td][
+ ][td][img]/img/pkmn/b/p/r/z.png[/img][*Blipbug*][/td][
+ ][td][img]/img/pkmn/z/d/l/0.png[/img][*Dottler*][/td][
+ ][td][img]/img/pkmn/3/l/l/t.png[/img][*Orbeetle*][/td][
+ ][td][img]/img/pkmn/n/d/o/j.png[/img][*Nickit*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/t/3/7/c.png[/img][*Thievul*][/td][
+ ][td][img]/img/pkmn/n/p/e/8.png[/img][*Gossifleur*][/td][
+ ][td][img]/img/pkmn/z/t/z/7.png[/img][*Eldegoss*][/td][
+ ][td][img]/img/pkmn/h/0/0/r.png[/img][*Wooloo*][/td][
+ ][td][img]/img/pkmn/i/n/l/9.png[/img][*Dubwool*][/td][
+ ][td][img]/img/pkmn/p/g/h/h.png[/img][*Chewtle*][/td][
+ ][td][img]/img/pkmn/q/9/w/f.png[/img][*Drednaw*][/td][
+ ][td][img]/img/pkmn/9/l/b/u.png[/img][*Yamper*][/td][
+ ][td][img]/img/pkmn/5/m/f/b.png[/img][*Boltund*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/x/n/u/v.png[/img][*Rolycoly*][/td][
+ ][td][img]/img/pkmn/j/j/h/v.png[/img][*Carkol*][/td][
+ ][td][img]/img/pkmn/o/7/n/8.png[/img][*Coalossal*][/td][
+ ][td][img]/img/pkmn/l/t/w/q.png[/img][*Applin*][/td][
+ ][td][img]/img/pkmn/7/y/r/p.png[/img][*Flapple*][/td][
+ ][td][img]/img/pkmn/k/4/c/1.png[/img][*Appletun*][/td][
+ ][td][img]/img/pkmn/i/5/5/7.png[/img][*Silicobra*][/td][
+ ][td][img]/img/pkmn/w/c/9/s.png[/img][*Sandaconda*][/td][
+ ][td][img]/img/pkmn/5/t/x/9.png[/img][*Cramorant*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/7/c/u/4.png[/img][*Cramorant/Gulping*][/td][
+ ][td][img]/img/pkmn/4/w/k/z.png[/img][*Cramorant/Gorging*][/td][
+ ][td][img]/img/pkmn/v/b/w/n.png[/img][*Arrokuda*][/td][
+ ][td][img]/img/pkmn/z/x/z/h.png[/img][*Barraskewda*][/td][
+ ][td][img]/img/pkmn/s/1/8/3.png[/img][*Toxel*][/td][
+ ][td][img]/img/pkmn/i/x/k/r.png[/img][*Toxtricity/Amped*][/td][
+ ][td][img]/img/pkmn/a/j/n/e.png[/img][*Toxtricity/Low Key*][/td][
+ ][td][img]/img/pkmn/9/b/x/w.png[/img][*Sizzlipede*][/td][
+ ][td][img]/img/pkmn/d/4/w/o.png[/img][*Centiskorch*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/q/z/b/8.png[/img][*Clobbopus*][/td][
+ ][td][img]/img/pkmn/b/3/k/g.png[/img][*Grapploct*][/td][
+ ][td][img]/img/pkmn/u/a/y/x.png[/img][*Sinistea*][/td][
+ ][td][img]/img/pkmn/5/e/r/w.png[/img][*Polteageist*][/td][
+ ][td][img]/img/pkmn/q/6/k/i.png[/img][*Hatenna*][/td][
+ ][td][img]/img/pkmn/x/6/l/e.png[/img][*Hattrem*][/td][
+ ][td][img]/img/pkmn/a/a/r/f.png[/img][*Hatterene*][/td][
+ ][td][img]/img/pkmn/u/i/k.png[/img][*Impidimp*][/td][
+ ][td][img]/img/pkmn/g/0/1/5.png[/img][*Morgrem*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/1/h/b/l.png[/img][*Grimmsnarl*][/td][
+ ][td][img]/img/pkmn/t/n/g/f.png[/img][*Obstagoon*][/td][
+ ][td][img]/img/pkmn/x/b/c/e.png[/img][*Perrserker*][/td][
+ ][td][img]/img/pkmn/x/u/y/x.png[/img][*Cursola*][/td][
+ ][td][img]/img/pkmn/m/0/v/d.png[/img][*Sirfetch'd*][/td][
+ ][td][img]/img/pkmn/c/q/n/t.png[/img][*Mr. Rime*][/td][
+ ][td][img]/img/pkmn/a/5/a/d.png[/img][*Runerigus*][/td][
+ ][td][img]/img/pkmn/n/m/h/8.png[/img][*Milcery*][/td][
+ ][td][img]/img/pkmn/3/o/5/5.png[/img][*Alcremie*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/2/g/h/b.png[/img][*Falinks*][/td][
+ ][td][img]/img/pkmn/z/p/t/a.png[/img][*Pincurchin*][/td][
+ ][td][img]/img/pkmn/b/a/j/o.png[/img][*Snom*][/td][
+ ][td][img]/img/pkmn/3/u/i/h.png[/img][*Frosmoth*][/td][
+ ][td][img]/img/pkmn/r/5/d/k.png[/img][*Stonjourner*][/td][
+ ][td][img]/img/pkmn/2/b/s/o.png[/img][*Eiscue/Noice Face*][/td][
+ ][td][img]/img/pkmn/k/7/x/o.png[/img][*Eiscue/Ice Face*][/td][
+ ][td][img]/img/pkmn/z/2.png[/img][*Indeedee/Female*][/td][
+ ][td][img]/img/pkmn/q/c/y/6.png[/img][*Indeedee/Male*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/e/m/t/i.png[/img][*Morpeko/Hangry Mode*][/td][
+ ][td][img]/img/pkmn/q/g/c/3.png[/img][*Morpeko/Full Belly Mode*][/td][
+ ][td][img]/img/pkmn/5/f/5/u.png[/img][*Cufant*][/td][
+ ][td][img]/img/pkmn/8/g/e/9.png[/img][*Copperajah*][/td][
+ ][td][img]/img/pkmn/w/j/l/i.png[/img][*Dracozolt*][/td][
+ ][td][img]/img/pkmn/7/h/x/j.png[/img][*Arctozolt*][/td][
+ ][td][img]/img/pkmn/y/5/c/d.png[/img][*Dracovish*][/td][
+ ][td][img]/img/pkmn/8/2/x/u.png[/img][*Arctovish*][/td][
+ ][td][img]/img/pkmn/a/h/f/m.png[/img][*Duraludon*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/q/y/4/p.png[/img][*Dreepy*][/td][
+ ][td][img]/img/pkmn/l/b/p/j.png[/img][*Drakloak*][/td][
+ ][td][img]/img/pkmn/4/b/e/4.png[/img][*Dragapult*][/td][
+ ][td][img]/img/pkmn/l/9/i/y.png[/img][*Zacian*][/td][
+ ][td][img]/img/pkmn/o/i/w/6.png[/img][*Zacian/Crowned*][/td][
+ ][td][img]/img/pkmn/o/w/c/z.png[/img][*Zamazenta*][/td][
+ ][td][img]/img/pkmn/p/4/k.png[/img][*Zamazenta/Crowned*][/td][
+ ][td][img]/img/pkmn/n/8/j/w.png[/img][*Eternatus*][/td][
+ ][td][img]/img/pkmn/y/8/x/c.png[/img][*Kubfu*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/9/g/h/k.png[/img][*Urshifu/Single Strike*][/td][
+ ][td][img]/img/pkmn/y/g/4/6.png[/img][*Urshifu/Rapid Strike*][/td][
+ ][td][img]/img/pkmn/d/1/k/w.png[/img][*Zarude*][/td][
+ ][td][img]/img/pkmn/o/y/5/u.png[/img][*Regieleki*][/td][
+ ][td][img]/img/pkmn/o/t/k/s.png[/img][*Regidrago*][/td][
+ ][td][img]/img/pkmn/z/d/w/8.png[/img][*Glastrier*][/td][
+ ][td][img]/img/pkmn/j/3/4/9.png[/img][*Spectrier*][/td][
+ ][td][img]/img/pkmn/k/q/d/v.png[/img][*Calyrex*][/td][
+ ][td][img]/img/pkmn/j/j/9/z.png[/img][*Calyrex/Ice Rider*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/6/k/8/3.png[/img][*Calyrex/Shadow Rider*][/td][
+ ][td=8x1][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

@@ -1,0 +1,161 @@
+[table][
+][tr][
+ ][th=9x1]Melan Alola[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/1/6/6/8.png[/img][*Rowlet (M)*][/td][
+ ][td][img]/img/pkmn/m/5/p/s.png[/img][*Dartrix (M)*][/td][
+ ][td][img]/img/pkmn/h/o/p/l.png[/img][*Decidueye (M)*][/td][
+ ][td][img]/img/pkmn/7/o/0/2.png[/img][*Decidueye (M)/Hisuian Forme*][/td][
+ ][td][img]/img/pkmn/h/y/x/w.png[/img][*Litten (M)*][/td][
+ ][td][img]/img/pkmn/4/b/i/q.png[/img][*Torracat (M)*][/td][
+ ][td][img]/img/pkmn/4/4/d/9.png[/img][*Incineroar (M)*][/td][
+ ][td][img]/img/pkmn/r/3/j/7.png[/img][*Popplio (M)*][/td][
+ ][td][img]/img/pkmn/q/k/v/p.png[/img][*Brionne (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/y/j/4/p.png[/img][*Primarina (M)*][/td][
+ ][td][img]/img/pkmn/w/f/u/8.png[/img][*Pikipek (M)*][/td][
+ ][td][img]/img/pkmn/8/r/h.png[/img][*Trumbeak (M)*][/td][
+ ][td][img]/img/pkmn/p/d/g/s.png[/img][*Toucannon (M)*][/td][
+ ][td][img]/img/pkmn/4/m/m/e.png[/img][*Yungoos (M)*][/td][
+ ][td][img]/img/pkmn/c/w/u/a.png[/img][*Gumshoos (M)*][/td][
+ ][td][img]/img/pkmn/2/n/l/9.png[/img][*Gumshoos (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/4/a/u/a.png[/img][*Grubbin (M)*][/td][
+ ][td][img]/img/pkmn/4/h/q/r.png[/img][*Charjabug (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/4/3/u/2.png[/img][*Vikavolt (M)*][/td][
+ ][td][img]/img/pkmn/o/b/2/t.png[/img][*Vikavolt (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/d/g/2/8.png[/img][*Crabrawler (M)*][/td][
+ ][td][img]/img/pkmn/x/h/x/q.png[/img][*Crabominable (M)*][/td][
+ ][td][img]/img/pkmn/p/m/3/1.png[/img][*Oricorio (M)/Baile Style*][/td][
+ ][td][img]/img/pkmn/g/m/0/5.png[/img][*Oricorio (M)/Pom-Pom Style*][/td][
+ ][td][img]/img/pkmn/u/s/m/w.png[/img][*Oricorio (M)/Pa'u Style*][/td][
+ ][td][img]/img/pkmn/v/w/1/y.png[/img][*Oricorio (M)/Sensu Style*][/td][
+ ][td][img]/img/pkmn/x/1/n/v.png[/img][*Cutiefly (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/2/i/o/s.png[/img][*Ribombee (M)*][/td][
+ ][td][img]/img/pkmn/w/4/o/l.png[/img][*Ribombee (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/8/9/h/x.png[/img][*Rockruff (M)*][/td][
+ ][td][img]/img/pkmn/1/4/4/o.png[/img][*Lycanroc (M)/Midday Forme*][/td][
+ ][td][img]/img/pkmn/z/k/6/g.png[/img][*Lycanroc (M)/Midnight Forme*][/td][
+ ][td][img]/img/pkmn/t/o/2/n.png[/img][*Lycanroc (M)/Dusk Forme*][/td][
+ ][td][img]/img/pkmn/b/x/t/y.png[/img][*Wishiwashi (M)*][/td][
+ ][td][img]/img/pkmn/m/6/t/s.png[/img][*Wishiwashi (M)/School Forme*][/td][
+ ][td][img]/img/pkmn/n/0/n/3.png[/img][*Wishiwashi (M)/Totem Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/t/t/k/1.png[/img][*Mareanie (M)*][/td][
+ ][td][img]/img/pkmn/y/u/d/g.png[/img][*Toxapex (M)*][/td][
+ ][td][img]/img/pkmn/q/o/g/c.png[/img][*Mudbray (M)*][/td][
+ ][td][img]/img/pkmn/j/d/6/m.png[/img][*Mudsdale (M)*][/td][
+ ][td][img]/img/pkmn/q/p/3/z.png[/img][*Dewpider (M)*][/td][
+ ][td][img]/img/pkmn/j/9/i/c.png[/img][*Araquanid (M)*][/td][
+ ][td][img]/img/pkmn/e/a/u/z.png[/img][*Araquanid (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/1/w/h/r.png[/img][*Fomantis (M)*][/td][
+ ][td][img]/img/pkmn/e/t/c/y.png[/img][*Lurantis (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/m/m/b/z.png[/img][*Lurantis (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/c/6/t/h.png[/img][*Morelull (M)*][/td][
+ ][td][img]/img/pkmn/k/3/u/o.png[/img][*Shiinotic (M)*][/td][
+ ][td][img]/img/pkmn/m/l/8/i.png[/img][*Salandit (M)*][/td][
+ ][td][img]/img/pkmn/i/0/y/0.png[/img][*Salazzle (M)*][/td][
+ ][td][img]/img/pkmn/u/m/y/g.png[/img][*Salazzle (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/m/f/e/m.png[/img][*Stufful (M)*][/td][
+ ][td][img]/img/pkmn/7/h/c/j.png[/img][*Bewear (M)*][/td][
+ ][td][img]/img/pkmn/9/9/q/q.png[/img][*Bounsweet (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/u/x/z/d.png[/img][*Steenee (M)*][/td][
+ ][td][img]/img/pkmn/o/2/7/r.png[/img][*Tsareena (M)*][/td][
+ ][td][img]/img/pkmn/z/v/q/v.png[/img][*Comfey (M)*][/td][
+ ][td][img]/img/pkmn/2/4/h/4.png[/img][*Oranguru (M)*][/td][
+ ][td][img]/img/pkmn/v/t/v/k.png[/img][*Passimian (M)*][/td][
+ ][td][img]/img/pkmn/q/l/j/j.png[/img][*Wimpod (M)*][/td][
+ ][td][img]/img/pkmn/y/o/z/l.png[/img][*Golisopod (M)*][/td][
+ ][td][img]/img/pkmn/2/8/p/0.png[/img][*Sandygast (M)*][/td][
+ ][td][img]/img/pkmn/t/h/3/o.png[/img][*Palossand (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/u/h/a/1.png[/img][*Pyukumuku (M)*][/td][
+ ][td][img]/img/pkmn/p/l/c/j.png[/img][*Type: Null (M)*][/td][
+ ][td][img]/img/pkmn/a/n/u/o.png[/img][*Minior (M)*][/td][
+ ][td][img]/img/pkmn/d/v/d/k.png[/img][*Minior (M)/Exposed*][/td][
+ ][td][img]/img/pkmn/f/r/v/k.png[/img][*Komala (M)*][/td][
+ ][td][img]/img/pkmn/o/q/0/5.png[/img][*Turtonator (M)*][/td][
+ ][td][img]/img/pkmn/8/s/2/o.png[/img][*Togedemaru (M)*][/td][
+ ][td][img]/img/pkmn/l/u/r/7.png[/img][*Togedemaru (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/w/4/r/y.png[/img][*Mimikyu (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/u/p/n.png[/img][*Mimikyu (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/i/z/g/i.png[/img][*Bruxish (M)*][/td][
+ ][td][img]/img/pkmn/3/7/z/w.png[/img][*Drampa (M)*][/td][
+ ][td][img]/img/pkmn/a/1/s/p.png[/img][*Dhelmise (M)*][/td][
+ ][td][img]/img/pkmn/t/l/4/x.png[/img][*Jangmo-o (M)*][/td][
+ ][td][img]/img/pkmn/q/1/a/e.png[/img][*Hakamo-o (M)*][/td][
+ ][td][img]/img/pkmn/j/3/k/i.png[/img][*Kommo-o (M)*][/td][
+ ][td][img]/img/pkmn/5/n/g/x.png[/img][*Kommo-o (M)/Totem Forme*][/td][
+ ][td][img]/img/pkmn/t/p/2/g.png[/img][*Tapu Koko (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/8/7/n/j.png[/img][*Tapu Lele (M)*][/td][
+ ][td][img]/img/pkmn/9/f/b/0.png[/img][*Tapu Bulu (M)*][/td][
+ ][td][img]/img/pkmn/d/w/m/f.png[/img][*Tapu Fini (M)*][/td][
+ ][td][img]/img/pkmn/a/m/f/v.png[/img][*Cosmog (M)*][/td][
+ ][td][img]/img/pkmn/o/0/z/z.png[/img][*Cosmoem (M)*][/td][
+ ][td][img]/img/pkmn/r/p/f/7.png[/img][*Solgaleo (M)*][/td][
+ ][td][img]/img/pkmn/o/m/q/v.png[/img][*Lunala (M)*][/td][
+ ][td][img]/img/pkmn/v/k/m/8.png[/img][*Nihilego (M)*][/td][
+ ][td][img]/img/pkmn/v/a/f/v.png[/img][*Buzzwole (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/v/p/d/5.png[/img][*Pheromosa (M)*][/td][
+ ][td][img]/img/pkmn/t/h/v/5.png[/img][*Xurkitree (M)*][/td][
+ ][td][img]/img/pkmn/4/6/0/f.png[/img][*Celesteela (M)*][/td][
+ ][td][img]/img/pkmn/p/w/3/u.png[/img][*Kartana (M)*][/td][
+ ][td][img]/img/pkmn/3/c/4/j.png[/img][*Guzzlord (M)*][/td][
+ ][td][img]/img/pkmn/e/c/3/2.png[/img][*Poipole (M)*][/td][
+ ][td][img]/img/pkmn/q/6/8/p.png[/img][*Naganadel (M)*][/td][
+ ][td][img]/img/pkmn/x/x/3/l.png[/img][*Stakataka (M)*][/td][
+ ][td][img]/img/pkmn/o/3/a/o.png[/img][*Blacephalon (M)*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/o/a/1/9.png[/img][*Necrozma (M)*][/td][
+ ][td][img]/img/pkmn/i/1/f/n.png[/img][*Necrozma (M)/Dawn Wings*][/td][
+ ][td][img]/img/pkmn/4/h/r/z.png[/img][*Necrozma (M)/Dusk Mane*][/td][
+ ][td][img]/img/pkmn/k/3/c/8.png[/img][*Necrozma (M)/Ultra Forme*][/td][
+ ][td][img]/img/pkmn/k/d/4/s.png[/img][*Magearna (M)*][/td][
+ ][td][img]/img/pkmn/i/k/t/a.png[/img][*Marshadow (M)*][/td][
+ ][td][img]/img/pkmn/s/x/p/v.png[/img][*Zeraora (M)*][/td][
+ ][td][img]/img/pkmn/f/g/a/e.png[/img][*Meltan (M)*][/td][
+ ][td][img]/img/pkmn/6/c/3/o.png[/img][*Melmetal (M)*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

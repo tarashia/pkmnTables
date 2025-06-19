@@ -1,0 +1,38 @@
+[table][
+][tr][
+ ][th=8x1]Albino Minior (Exposed)[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/u/c/r/q.png[/img][*Minior (A)/Red Core*][/td][
+ ][td][img]/img/pkmn/6/6/n/7.png[/img][*Minior (A)/Orange Core*][/td][
+ ][td][img]/img/pkmn/m/k/p/j.png[/img][*Minior (A)/Yellow Core*][/td][
+ ][td][img]/img/pkmn/o/e/x/s.png[/img][*Minior (A)/Green Core*][/td][
+ ][td][img]/img/pkmn/a/4/c/g.png[/img][*Minior (A)/Blue Core*][/td][
+ ][td][img]/img/pkmn/g/e/e/o.png[/img][*Minior (A)/Indigo Core*][/td][
+ ][td][img]/img/pkmn/t/b/p/e.png[/img][*Minior (A)/Violet Core*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

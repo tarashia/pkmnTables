@@ -1,0 +1,51 @@
+[table][
+][tr][
+ ][th=9x1]Albino Silvally[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/k/c/k/j.png[/img][*Silvally (A)*][/td][
+ ][td][img]/img/pkmn/i/z/f/6.png[/img][*Silvally (A)/Type: Fire*][/td][
+ ][td][img]/img/pkmn/1/b/9/6.png[/img][*Silvally (A)/Type: Water*][/td][
+ ][td][img]/img/pkmn/r/g/1/a.png[/img][*Silvally (A)/Type: Electric*][/td][
+ ][td][img]/img/pkmn/c/w/x/a.png[/img][*Silvally (A)/Type: Grass*][/td][
+ ][td][img]/img/pkmn/y/l/l/i.png[/img][*Silvally (A)/Type: Ice*][/td][
+ ][td][img]/img/pkmn/h/f/u/r.png[/img][*Silvally (A)/Type: Fighting*][/td][
+ ][td][img]/img/pkmn/a/m/m.png[/img][*Silvally (A)/Type: Poison*][/td][
+ ][td][img]/img/pkmn/s/a/3.png[/img][*Silvally (A)/Type: Ground*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/j/v/t/i.png[/img][*Silvally (A)/Type: Flying*][/td][
+ ][td][img]/img/pkmn/h/q/p/e.png[/img][*Silvally (A)/Type: Psychic*][/td][
+ ][td][img]/img/pkmn/o/5/8/v.png[/img][*Silvally (A)/Type: Bug*][/td][
+ ][td][img]/img/pkmn/b/c/x/i.png[/img][*Silvally (A)/Type: Rock*][/td][
+ ][td][img]/img/pkmn/1/z/g/3.png[/img][*Silvally (A)/Type: Ghost*][/td][
+ ][td][img]/img/pkmn/e/1/2/c.png[/img][*Silvally (A)/Type: Dragon*][/td][
+ ][td][img]/img/pkmn/8/a/h/2.png[/img][*Silvally (A)/Type: Steel*][/td][
+ ][td][img]/img/pkmn/h/7/0/3.png[/img][*Silvally (A)/Type: Dark*][/td][
+ ][td][img]/img/pkmn/3/b/c.png[/img][*Silvally (A)/Type: Fairy*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

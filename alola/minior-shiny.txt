@@ -1,0 +1,38 @@
+[table][
+][tr][
+ ][th=8x1]Shiny Minior (Exposed)[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/k/h/h/k.png[/img][*Minior (S)/Red Core*][/td][
+ ][td][img]/img/pkmn/s/i/e/m.png[/img][*Minior (S)/Orange Core*][/td][
+ ][td][img]/img/pkmn/k/l/w/z.png[/img][*Minior (S)/Yellow Core*][/td][
+ ][td][img]/img/pkmn/i/a/f/8.png[/img][*Minior (S)/Green Core*][/td][
+ ][td][img]/img/pkmn/f/6/l/v.png[/img][*Minior (S)/Blue Core*][/td][
+ ][td][img]/img/pkmn/a/2/t/z.png[/img][*Minior (S)/Indigo Core*][/td][
+ ][td][img]/img/pkmn/v/t/b/v.png[/img][*Minior (S)/Violet Core*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

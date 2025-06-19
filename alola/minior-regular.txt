@@ -1,0 +1,38 @@
+[table][
+][tr][
+ ][th=8x1]Minior (Exposed)[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/2/x/w/b.png[/img][*Minior/Red Core*][/td][
+ ][td][img]/img/pkmn/l/o/i.png[/img][*Minior/Orange Core*][/td][
+ ][td][img]/img/pkmn/8/z/4/p.png[/img][*Minior/Yellow Core*][/td][
+ ][td][img]/img/pkmn/m/m/m/t.png[/img][*Minior/Green Core*][/td][
+ ][td][img]/img/pkmn/s/4/x/q.png[/img][*Minior/Blue Core*][/td][
+ ][td][img]/img/pkmn/k/v/0/x.png[/img][*Minior/Indigo Core*][/td][
+ ][td][img]/img/pkmn/l/v/e/r.png[/img][*Minior/Violet Core*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

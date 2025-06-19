@@ -1,0 +1,51 @@
+[table][
+][tr][
+ ][th=9x1]Silvally[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/c/z/8.png[/img][*Silvally*][/td][
+ ][td][img]/img/pkmn/a/x/4/6.png[/img][*Silvally/Type: Fire*][/td][
+ ][td][img]/img/pkmn/l/e/7/q.png[/img][*Silvally/Type: Water*][/td][
+ ][td][img]/img/pkmn/v/a/8/b.png[/img][*Silvally/Type: Electric*][/td][
+ ][td][img]/img/pkmn/2/n/e/7.png[/img][*Silvally/Type: Grass*][/td][
+ ][td][img]/img/pkmn/t/q/p/9.png[/img][*Silvally/Type: Ice*][/td][
+ ][td][img]/img/pkmn/j/4/w/a.png[/img][*Silvally/Type: Fighting*][/td][
+ ][td][img]/img/pkmn/8/u/5/t.png[/img][*Silvally/Type: Poison*][/td][
+ ][td][img]/img/pkmn/n/u/i/y.png[/img][*Silvally/Type: Ground*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/5/b/b/o.png[/img][*Silvally/Type: Flying*][/td][
+ ][td][img]/img/pkmn/z/1/y/r.png[/img][*Silvally/Type: Psychic*][/td][
+ ][td][img]/img/pkmn/r/w/h/c.png[/img][*Silvally/Type: Bug*][/td][
+ ][td][img]/img/pkmn/7/k/i/b.png[/img][*Silvally/Type: Rock*][/td][
+ ][td][img]/img/pkmn/t/7/j/w.png[/img][*Silvally/Type: Ghost*][/td][
+ ][td][img]/img/pkmn/t/a/d/h.png[/img][*Silvally/Type: Dragon*][/td][
+ ][td][img]/img/pkmn/u/r/7/3.png[/img][*Silvally/Type: Steel*][/td][
+ ][td][img]/img/pkmn/t/u/i/p.png[/img][*Silvally/Type: Dark*][/td][
+ ][td][img]/img/pkmn/w/v/d/n.png[/img][*Silvally/Type: Fairy*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

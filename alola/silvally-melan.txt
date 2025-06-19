@@ -1,0 +1,51 @@
+[table][
+][tr][
+ ][th=9x1]Melan Silvally[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/q/z/1/5.png[/img][*Silvally (M)*][/td][
+ ][td][img]/img/pkmn/6/p/c/9.png[/img][*Silvally (M)/Type: Fire*][/td][
+ ][td][img]/img/pkmn/9/b/l/d.png[/img][*Silvally (M)/Type: Water*][/td][
+ ][td][img]/img/pkmn/k/t/f/v.png[/img][*Silvally (M)/Type: Electric*][/td][
+ ][td][img]/img/pkmn/l/l/o/s.png[/img][*Silvally (M)/Type: Grass*][/td][
+ ][td][img]/img/pkmn/t/x/3/n.png[/img][*Silvally (M)/Type: Ice*][/td][
+ ][td][img]/img/pkmn/8/c/x/z.png[/img][*Silvally (M)/Type: Fighting*][/td][
+ ][td][img]/img/pkmn/r/h/z/e.png[/img][*Silvally (M)/Type: Poison*][/td][
+ ][td][img]/img/pkmn/c/w/3/t.png[/img][*Silvally (M)/Type: Ground*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/r/e/z/6.png[/img][*Silvally (M)/Type: Flying*][/td][
+ ][td][img]/img/pkmn/k/k/6/p.png[/img][*Silvally (M)/Type: Psychic*][/td][
+ ][td][img]/img/pkmn/9/7/9/1.png[/img][*Silvally (M)/Type: Bug*][/td][
+ ][td][img]/img/pkmn/o/0/9/k.png[/img][*Silvally (M)/Type: Rock*][/td][
+ ][td][img]/img/pkmn/8/y/e/t.png[/img][*Silvally (M)/Type: Ghost*][/td][
+ ][td][img]/img/pkmn/8/3/k/5.png[/img][*Silvally (M)/Type: Dragon*][/td][
+ ][td][img]/img/pkmn/z/r/2/m.png[/img][*Silvally (M)/Type: Steel*][/td][
+ ][td][img]/img/pkmn/g/7/n/a.png[/img][*Silvally (M)/Type: Dark*][/td][
+ ][td][img]/img/pkmn/r/n/d/0.png[/img][*Silvally (M)/Type: Fairy*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

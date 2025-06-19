@@ -1,0 +1,38 @@
+[table][
+][tr][
+ ][th=8x1]Melan Minior (Exposed)[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/j/1/8/p.png[/img][*Minior (M)/Red Core*][/td][
+ ][td][img]/img/pkmn/j/2/0/o.png[/img][*Minior (M)/Orange Core*][/td][
+ ][td][img]/img/pkmn/t/o/5/x.png[/img][*Minior (M)/Yellow Core*][/td][
+ ][td][img]/img/pkmn/v/c/b/x.png[/img][*Minior (M)/Green Core*][/td][
+ ][td][img]/img/pkmn/d/v/d/k.png[/img][*Minior (M)/Blue Core*][/td][
+ ][td][img]/img/pkmn/d/j/6/n.png[/img][*Minior (M)/Indigo Core*][/td][
+ ][td][img]/img/pkmn/g/n/4/5.png[/img][*Minior (M)/Violet Core*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

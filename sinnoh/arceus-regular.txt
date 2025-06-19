@@ -1,0 +1,51 @@
+[table][
+][tr][
+ ][th=9x1]Arceus[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/i/8/t.png[/img][*Arceus*][/td][
+ ][td][img]/img/pkmn/q/y/1.png[/img][*Arceus/Fire Forme*][/td][
+ ][td][img]/img/pkmn/h/z/5.png[/img][*Arceus/Water Forme*][/td][
+ ][td][img]/img/pkmn/8/x/c.png[/img][*Arceus/Electric Forme*][/td][
+ ][td][img]/img/pkmn/d/h/h.png[/img][*Arceus/Grass Forme*][/td][
+ ][td][img]/img/pkmn/z/8/g.png[/img][*Arceus/Ice Forme*][/td][
+ ][td][img]/img/pkmn/k/3/7.png[/img][*Arceus/Fighting Forme*][/td][
+ ][td][img]/img/pkmn/6/r/4.png[/img][*Arceus/Poison Forme*][/td][
+ ][td][img]/img/pkmn/g/3/v.png[/img][*Arceus/Ground Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/l/h/5.png[/img][*Arceus/Flying Forme*][/td][
+ ][td][img]/img/pkmn/u/d/j.png[/img][*Arceus/Psychic Forme*][/td][
+ ][td][img]/img/pkmn/i/e/o.png[/img][*Arceus/Bug Forme*][/td][
+ ][td][img]/img/pkmn/u/h/2.png[/img][*Arceus/Rock Forme*][/td][
+ ][td][img]/img/pkmn/r/j/l.png[/img][*Arceus/Ghost Forme*][/td][
+ ][td][img]/img/pkmn/k/r/v.png[/img][*Arceus/Dragon Forme*][/td][
+ ][td][img]/img/pkmn/v/l/z.png[/img][*Arceus/Steel Forme*][/td][
+ ][td][img]/img/pkmn/9/3/6.png[/img][*Arceus/Dark Forme*][/td][
+ ][td][img]/img/pkmn/n/p/f/s.png[/img][*Arceus/Fairy Forme*][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]

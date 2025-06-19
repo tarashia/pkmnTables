@@ -1,0 +1,190 @@
+[table][
+][tr][
+ ][th=9x1]Sinnoh[/th][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/w/4/6.png[/img][*Turtwig*][/td][
+ ][td][img]/img/pkmn/5/x/n.png[/img][*Grotle*][/td][
+ ][td][img]/img/pkmn/d/8/b.png[/img][*Torterra*][/td][
+ ][td][img]/img/pkmn/1/8/3.png[/img][*Chimchar*][/td][
+ ][td][img]/img/pkmn/c/v/3.png[/img][*Monferno*][/td][
+ ][td][img]/img/pkmn/d/b/v.png[/img][*Infernape*][/td][
+ ][td][img]/img/pkmn/f/d/a.png[/img][*Piplup*][/td][
+ ][td][img]/img/pkmn/n/k/x.png[/img][*Prinplup*][/td][
+ ][td][img]/img/pkmn/9/p/w.png[/img][*Empoleon*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/7/l/5.png[/img][*Starly*][/td][
+ ][td][img]/img/pkmn/o/s/0.png[/img][*Staravia*][/td][
+ ][td][img]/img/pkmn/o/z/3.png[/img][*Staraptor*][/td][
+ ][td][img]/img/pkmn/4/i/8.png[/img][*Bidoof*][/td][
+ ][td][img]/img/pkmn/d/o/t.png[/img][*Bibarel*][/td][
+ ][td][img]/img/pkmn/5/l/9.png[/img][*Kricketot*][/td][
+ ][td][img]/img/pkmn/j/j/3.png[/img][*Kricketune*][/td][
+ ][td][img]/img/pkmn/y/i/0.png[/img][*Shinx*][/td][
+ ][td][img]/img/pkmn/o/1/e.png[/img][*Luxio*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/h/f/h.png[/img][*Luxray*][/td][
+ ][td][img]/img/pkmn/5/m/v.png[/img][*Budew*][/td][
+ ][td][img]/img/pkmn/b/o/1.png[/img][*Roselia*][/td][
+ ][td][img]/img/pkmn/g/d/p.png[/img][*Roserade*][/td][
+ ][td][img]/img/pkmn/q/t/4.png[/img][*Cranidos*][/td][
+ ][td][img]/img/pkmn/a/7/x.png[/img][*Rampardos*][/td][
+ ][td][img]/img/pkmn/k/8/p.png[/img][*Shieldon*][/td][
+ ][td][img]/img/pkmn/m/7/2.png[/img][*Bastiodon*][/td][
+ ][td][img]/img/pkmn/y/3/0.png[/img][*Burmy/Plant Cloak*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/k/0/e.png[/img][*Burmy/Trash Cloak*][/td][
+ ][td][img]/img/pkmn/9/3/d.png[/img][*Burmy/Sandy Cloak*][/td][
+ ][td][img]/img/pkmn/f/3/5.png[/img][*Wormadam/Plant Cloak*][/td][
+ ][td][img]/img/pkmn/h/m/f.png[/img][*Wormadam/Trash Cloak*][/td][
+ ][td][img]/img/pkmn/6/u/k.png[/img][*Wormadam/Sandy Cloak*][/td][
+ ][td][img]/img/pkmn/b/7/c.png[/img][*Mothim*][/td][
+ ][td][img]/img/pkmn/n/j/3.png[/img][*Combee*][/td][
+ ][td][img]/img/pkmn/k/1/v.png[/img][*Vespiquen*][/td][
+ ][td][img]/img/pkmn/e/7.png[/img][*Pachirisu*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/x/c/q.png[/img][*Buizel*][/td][
+ ][td][img]/img/pkmn/r/q/q.png[/img][*Floatzel*][/td][
+ ][td][img]/img/pkmn/n/y/5.png[/img][*Cherubi*][/td][
+ ][td][img]/img/pkmn/7/2/n.png[/img][*Cherrim*][/td][
+ ][td][img]/img/pkmn/c/q/5.png[/img][*Shellos*][/td][
+ ][td][img]/img/pkmn/3/t/4.png[/img][*Gastrodon*][/td][
+ ][td][img]/img/pkmn/n/b/8.png[/img][*Drifloon*][/td][
+ ][td][img]/img/pkmn/o/v/z.png[/img][*Drifblim*][/td][
+ ][td][img]/img/pkmn/p/m/f.png[/img][*Buneary*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/u/h/u.png[/img][*Lopunny*][/td][
+ ][td][img]/img/pkmn/r/n/l/f.png[/img][*Lopunny/Mega Forme*][/td][
+ ][td][img]/img/pkmn/4/p/r.png[/img][*Glameow*][/td][
+ ][td][img]/img/pkmn/q/7/u.png[/img][*Purugly*][/td][
+ ][td][img]/img/pkmn/2/s/s.png[/img][*Stunky*][/td][
+ ][td][img]/img/pkmn/a/8/8.png[/img][*Skuntank*][/td][
+ ][td][img]/img/pkmn/q/s/a.png[/img][*Bronzor*][/td][
+ ][td][img]/img/pkmn/h/u/x.png[/img][*Bronzong*][/td][
+ ][td][img]/img/pkmn/t/1/a.png[/img][*Happiny*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/l/m/a.png[/img][*Chansey*][/td][
+ ][td][img]/img/pkmn/3/7/v.png[/img][*Blissey*][/td][
+ ][td][img]/img/pkmn/f/c/s.png[/img][*Chatot*][/td][
+ ][td][img]/img/pkmn/h/n/r.png[/img][*Spiritomb*][/td][
+ ][td][img]/img/pkmn/f/p/z.png[/img][*Gible*][/td][
+ ][td][img]/img/pkmn/f/0/i.png[/img][*Gabite*][/td][
+ ][td][img]/img/pkmn/x/5/g.png[/img][*Garchomp*][/td][
+ ][td][img]/img/pkmn/1/s/4/h.png[/img][*Garchomp/Mega Forme*][/td][
+ ][td][img]/img/pkmn/m/2/5.png[/img][*Riolu*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/w/g/d.png[/img][*Lucario*][/td][
+ ][td][img]/img/pkmn/u/k/y/z.png[/img][*Lucario/Mega Forme*][/td][
+ ][td][img]/img/pkmn/g/d/9.png[/img][*Hippopotas*][/td][
+ ][td][img]/img/pkmn/i/2/w.png[/img][*Hippowdon*][/td][
+ ][td][img]/img/pkmn/9/h.png[/img][*Skorupi*][/td][
+ ][td][img]/img/pkmn/6/r/7.png[/img][*Drapion*][/td][
+ ][td][img]/img/pkmn/j/n/x.png[/img][*Croagunk*][/td][
+ ][td][img]/img/pkmn/n/j/q.png[/img][*Toxicroak*][/td][
+ ][td][img]/img/pkmn/v/m/6.png[/img][*Carnivine*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/9/a/d.png[/img][*Finneon*][/td][
+ ][td][img]/img/pkmn/s/9/g.png[/img][*Lumineon*][/td][
+ ][td][img]/img/pkmn/q/4/1.png[/img][*Mantyke*][/td][
+ ][td][img]/img/pkmn/i/q/v.png[/img][*Mantine*][/td][
+ ][td][img]/img/pkmn/f/9/i.png[/img][*Snover*][/td][
+ ][td][img]/img/pkmn/n/s/a.png[/img][*Abomasnow*][/td][
+ ][td][img]/img/pkmn/e/i/b/m.png[/img][*Abomasnow/Mega Forme*][/td][
+ ][td][img]/img/pkmn/5/2/e.png[/img][*Porygon*][/td][
+ ][td][img]/img/pkmn/j/b/9.png[/img][*Porygon2*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/2/k/1.png[/img][*Porygon-Z*][/td][
+ ][td][img]/img/pkmn/m/j/f.png[/img][*Rotom*][/td][
+ ][td][img]/img/pkmn/u/m/p.png[/img][*Rotom/Fan Forme*][/td][
+ ][td][img]/img/pkmn/7/p/v.png[/img][*Rotom/Freeze Forme*][/td][
+ ][td][img]/img/pkmn/t/9/n.png[/img][*Rotom/Heat Forme*][/td][
+ ][td][img]/img/pkmn/e/a/n.png[/img][*Rotom/Mow Forme*][/td][
+ ][td][img]/img/pkmn/v/8/m.png[/img][*Rotom/Wash Forme*][/td][
+ ][td][img]/img/pkmn/o/v/u.png[/img][*Uxie*][/td][
+ ][td][img]/img/pkmn/n/k/0.png[/img][*Mesprit*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/n/i/2.png[/img][*Azelf*][/td][
+ ][td][img]/img/pkmn/e/z/v.png[/img][*Dialga*][/td][
+ ][td][img]/img/pkmn/3/2/5/p.png[/img][*Dialga/Origin Forme*][/td][
+ ][td][img]/img/pkmn/b/a/d.png[/img][*Palkia*][/td][
+ ][td][img]/img/pkmn/h/x/8/1.png[/img][*Palkia/Origin Forme*][/td][
+ ][td][img]/img/pkmn/9/s/p.png[/img][*Heatran*][/td][
+ ][td][img]/img/pkmn/8/9/v.png[/img][*Regigigas*][/td][
+ ][td][img]/img/pkmn/g/r/l.png[/img][*Giratina*][/td][
+ ][td][img]/img/pkmn/7/d/a.png[/img][*Giratina/Origin Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/n/x/h.png[/img][*Cresselia*][/td][
+ ][td][img]/img/pkmn/d/1/4.png[/img][*Phione*][/td][
+ ][td][img]/img/pkmn/m/r/t.png[/img][*Manaphy*][/td][
+ ][td][img]/img/pkmn/v/e/r.png[/img][*Darkrai*][/td][
+ ][td][img]/img/pkmn/6/w/i.png[/img][*Shaymin*][/td][ 
+ ][td][img]/img/pkmn/i/8/t.png[/img][*Arceus*][/td][
+ ][td][img]/img/pkmn/q/y/1.png[/img][*Arceus/Fire Forme*][/td][
+ ][td][img]/img/pkmn/h/z/5.png[/img][*Arceus/Water Forme*][/td][
+ ][td][img]/img/pkmn/8/x/c.png[/img][*Arceus/Electric Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/d/h/h.png[/img][*Arceus/Grass Forme*][/td][
+ ][td][img]/img/pkmn/z/8/g.png[/img][*Arceus/Ice Forme*][/td][
+ ][td][img]/img/pkmn/k/3/7.png[/img][*Arceus/Fighting Forme*][/td][
+ ][td][img]/img/pkmn/6/r/4.png[/img][*Arceus/Poison Forme*][/td][
+ ][td][img]/img/pkmn/g/3/v.png[/img][*Arceus/Ground Forme*][/td][
+ ][td][img]/img/pkmn/l/h/5.png[/img][*Arceus/Flying Forme*][/td][
+ ][td][img]/img/pkmn/u/d/j.png[/img][*Arceus/Psychic Forme*][/td][
+ ][td][img]/img/pkmn/i/e/o.png[/img][*Arceus/Bug Forme*][/td][
+ ][td][img]/img/pkmn/u/h/2.png[/img][*Arceus/Rock Forme*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/r/j/l.png[/img][*Arceus/Ghost Forme*][/td][
+ ][td][img]/img/pkmn/k/r/v.png[/img][*Arceus/Dragon Forme*][/td][
+ ][td][img]/img/pkmn/v/l/z.png[/img][*Arceus/Steel Forme*][/td][
+ ][td][img]/img/pkmn/9/3/6.png[/img][*Arceus/Dark Forme*][/td][
+ ][td][img]/img/pkmn/n/p/f/s.png[/img][*Arceus/Fairy Forme*][/td]
+ ][td][img]/img/pkmn/v/d/0/1.png[/img][*Wyrdeer*][/td][
+ ][td][img]/img/pkmn/w/0/2/8.png[/img][*Kleavor*][/td][
+ ][td][img]/img/pkmn/g/5/f/a.png[/img][*Ursaluna*][/td][
+ ][td][img]/img/pkmn/v/7/j/x.png[/img][*Basculegion*][/td][
+][/tr][
+][tr][
+ ][td][img]/img/pkmn/b/p/f/b.png[/img][*Sneasler*][/td][
+ ][td][img]/img/pkmn/e/e/j/9.png[/img][*Overqwil*][/td][
+ ][td][img]/img/pkmn/7/f/0/2.png[/img][*Enamorus*][/td][
+ ][td][img]/img/pkmn/m/3/u/7.png[/img][*Enamorus/Therian Forme*][/td][
+ ][td=5x1][/td][
+][/tr][
+][/table]
+[style]
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    tbody { margin: 0 auto; }
+    tr
+    {
+        th
+        {
+            width: fit-content;
+            padding: 5px;
+        }
+        td
+        {
+            padding: 5px;
+        }
+    }
+}
+[/style]
